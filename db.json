@@ -979,26 +979,6 @@
 			"ANNEE": "2002",
 			"ETAT": "NEUF",
 			"DEDICACE": ""
-		},
-		{
-			"ID": "99",
-			"SERIE": "BAKER STREET",
-			"ALBUM": "T.2 SHERLOCK HOLMES ET LE CLUB DES SPORTS DANGEREUX",
-			"AUTEURS": "BARRAL",
-			"EDITEUR": "DELCOURT",
-			"ANNEE": "2001",
-			"ETAT": "NEUF",
-			"DEDICACE": ""
-		},
-		{
-			"ID": "100",
-			"SERIE": "AILES DE PLOMB",
-			"ALBUM": "T.3 L'AFFAIRE EST DANS LE LAC + Coffret",
-			"AUTEURS": "BARRAL",
-			"EDITEUR": "DELCOURT",
-			"ANNEE": "2000",
-			"ETAT": "NEUF",
-			"DEDICACE": ""
 		}
 	],
 	"profile": {
