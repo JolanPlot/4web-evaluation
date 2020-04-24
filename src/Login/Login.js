@@ -10,6 +10,7 @@ const Login = ({
     StyleLoginError
 }) => (
         <>
+            <div className="background" ></div>
             <div className="login">
                 <form className="login" onSubmit={formHandler}>
                     <label htmlFor="email">Login</label>
