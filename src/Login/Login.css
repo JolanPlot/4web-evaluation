@@ -48,3 +48,5 @@ form input.login_password {
 .login_error--active{
         visibility: visible;
     }
+
+::-webkit-input-placeholder { color: #ccc; text-transform: uppercase; }
