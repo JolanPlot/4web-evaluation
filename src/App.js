@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Login from ".Login/Login.container.js";
+import { BrowserRouter as Router, route, Link } from "react-router-dom";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
 
         <Router>
           <Link to="/login"> login </Link>
-
+          <Route path="/login" component={Login} />
 
         </Router>
 
