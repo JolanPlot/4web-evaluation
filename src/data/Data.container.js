@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./Data.css";
 import Array from "./Data"
 
-
 const EnchanceData = props => {
     const [itemspage, setitemsPage] = useState(10);
     const [items, setItems] = useState("")
