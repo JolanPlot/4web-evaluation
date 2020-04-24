@@ -12,7 +12,7 @@ const EnhanceLogin = props => {
     const history = useHistory();
 
     const formHandler = e => {
-        if (email === "contact@web.fr" && password === "azerty") {
+        if (email === "contact@web.fr" && pwd === "azerty") {
             history.push("/data");
         } else {
             setStyleLoginError({
