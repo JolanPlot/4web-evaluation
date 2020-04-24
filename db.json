@@ -1,2693 +1,307 @@
+{
+"posts":
 [
- {
-   "SERIE": "ENFER DU DECOR",
-   "ALBUM": "",
-   "AUTEURS": "AB' AIGRE",
-   "EDITEUR": "L' ESSAI",
-   "ANNEE": 1986,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BLUES",
-   "ALBUM": "",
-   "AUTEURS": "AB' AIGRE",
-   "EDITEUR": "PAQUET",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BIG TWIN",
-   "ALBUM": "",
-   "AUTEURS": "ACHDE",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1997,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.10 A LA RECHERCHE DU TEMPS PERDU",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2000,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.9 DE PROFUNDIS",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DAYAK",
-   "ALBUM": "T.3 ZAKS",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.8 LA MORT DE NICOLAS",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DAYAK",
-   "ALBUM": "T.2 LA CHAMBRE VERTE",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DAYAK",
-   "ALBUM": "T.1 GHETTO 9",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1993,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DAYAK",
-   "ALBUM": "T.1 GHETTO 9 Tirage Limité 2 000ex + esquisses + Coffret",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1993,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.5 VAGUE A LAMES",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1992,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.4 LES YEUX DE NICOLAS",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.3 LE PRINCE ET LA POUPEE",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1989,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.2 LE CAFE DU PORT",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1987,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EAUX DE MORTELUNE",
-   "ALBUM": "T.1 L'ECHIQUIER DU RAT",
-   "AUTEURS": "ADAMOV",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1986,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BERNARD PRINCE",
-   "ALBUM": "T.16 LA DYNAMITERA",
-   "AUTEURS": "AIDANS",
-   "EDITEUR": "BLANCO",
-   "ANNEE": 1992,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BELLADONE",
-   "ALBUM": "Tirage Limité + Story Board + Cd 57 / 150",
-   "AUTEURS": "ALARY",
-   "EDITEUR": "FOLLE IMAGE",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BELLADONE",
-   "ALBUM": "T.2 MAXIME",
-   "AUTEURS": "ALARY",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2005,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BELLADONE",
-   "ALBUM": "T.1 MARIE",
-   "AUTEURS": "ALARY",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2004,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BELLADONE",
-   "ALBUM": "Collection 2B + Crayonnés (Dédicacé)",
-   "AUTEURS": "ALARY",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ABRAXAS",
-   "ALBUM": "T.2 LE RIDEAU GRIS (Dédicacé)",
-   "AUTEURS": "ALFRED",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "DIGUE",
-   "ALBUM": "(Dédicacé)",
-   "AUTEURS": "ALFRED",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "FARIBOLES SIDERALES",
-   "ALBUM": "",
-   "AUTEURS": "ALIAS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1979,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ECLUSES DU CIEL",
-   "ALBUM": "T.7 TIFFEN",
-   "AUTEURS": "ALLOT",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1994,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ECLUSES DU CIEL",
-   "ALBUM": "T.6 TOMBELAINE",
-   "AUTEURS": "ALLOT",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1991,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ECLUSES DU CIEL",
-   "ALBUM": "T.5 LE PAYS BLANC",
-   "AUTEURS": "ALLOT",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1990,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ECLUSES DU CIEL",
-   "ALBUM": "T.4 AVALON",
-   "AUTEURS": "ALLOT",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1988,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CROMWELL STONE",
-   "ALBUM": "T.3 LE TESTAMENT DE CROMWELL STONE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.7 DORRO ZENGU",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.6 REVEIL",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.5 WHITE DUST",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.4 RACKEN",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.2 MEMOIRES 1",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.3 MEMOIRES 2",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARQ",
-   "ALBUM": "T.1 AILLEURS",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CROMWELL STONE",
-   "ALBUM": "T.2 LE RETOUR DE CROMWELL STONE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CROMWELL STONE",
-   "ALBUM": "Tirage Limité 222 / 950",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AZTEQUES",
-   "ALBUM": "",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1992,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DERIVES",
-   "ALBUM": "",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1991,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COUTOO",
-   "ALBUM": "",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1985,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CROMWELL STONE",
-   "ALBUM": "T.1 CROMWELL STONE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "DELIGNE",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CYRRUS",
-   "ALBUM": "",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.9 LE PASSAGE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.8 TUNNEL",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.7 LE DRAGON BLEU",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.6 ATTAQUE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.5 LE SECRET",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.4 LE CUBE NUMERIQUE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.3 DELIAH",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.1 L'OBJET",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAPRICORNE",
-   "ALBUM": "T.2 ELECTRICITE",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CAVERNE DU SOUVENIR",
-   "ALBUM": "",
-   "AUTEURS": "ANDREAS",
-   "EDITEUR": "LOMBARD",
-   "ANNEE": 1985,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AMERE RUSSIE",
-   "ALBUM": "T.1 LES AMAZONES DE BASSAÏEV Tirage Limité Toilé n° 34 899 / 1000 + 8 pages Dossier graphique + Ex-Libris",
-   "AUTEURS": "ANLOR",
-   "EDITEUR": "CANAL BD",
-   "ANNEE": 2014,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EWEN",
-   "ALBUM": "T.1 ALIS + Carnet graphique de 32 pages (Dédicacé)",
-   "AUTEURS": "ARINOUCHKINE",
-   "EDITEUR": "MAGHEN",
-   "ANNEE": 2008,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ANTON SIX",
-   "ALBUM": "",
-   "AUTEURS": "ARNO",
-   "EDITEUR": "ALBIN MICHEL",
-   "ANNEE": 1987,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHÊNE DU REVEUR",
-   "ALBUM": "",
-   "AUTEURS": "ARNO",
-   "EDITEUR": "BAYARD",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALEF-THAU",
-   "ALBUM": "T.7 LA PORTE DE LA VERITE",
-   "AUTEURS": "ARNO",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALEF-THAU",
-   "ALBUM": "Tirage Limité signé 81 / 850",
-   "AUTEURS": "ARNO",
-   "EDITEUR": "JONAS",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COMMENT FAIRE FORTUNE EN JUIN 40",
-   "ALBUM": "",
-   "AUTEURS": "ASTIER",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2015,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOB MORANE",
-   "ALBUM": "T.4 LE COLLIER DE CIVA (Dédicacé)",
-   "AUTEURS": "ATTANASIO",
-   "EDITEUR": "MARABOUT",
-   "ANNEE": 1963,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BOB MORANE",
-   "ALBUM": "T.3 LES TOURS DE CRISTAL (Dédicacé)",
-   "AUTEURS": "ATTANASIO",
-   "EDITEUR": "MARABOUT",
-   "ANNEE": 1962,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BOB MORANE",
-   "ALBUM": "T.1 L'OISEAU DE FEU (Dédicacé)",
-   "AUTEURS": "ATTANASIO",
-   "EDITEUR": "MARABOUT",
-   "ANNEE": 1960,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BOB MORANE",
-   "ALBUM": "T.5 BOB MORANE CONTRE LA TERREUR VERTE (Dédicacé)",
-   "AUTEURS": "ATTANASIO",
-   "EDITEUR": "MARABOUT",
-   "ANNEE": 1963,
-   "ETAT": "BE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BOB MORANE",
-   "ALBUM": "T.2 LE SECRET DE L'ANTARCTIQUE (Dédicacé)",
-   "AUTEURS": "ATTANASIO",
-   "EDITEUR": "MARABOUT",
-   "ANNEE": 1962,
-   "ETAT": "BE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "DINO ATTANASIO",
-   "ALBUM": "Carnet de route... et d'une vie 382 / 750 (Dédicacé)",
-   "AUTEURS": "ATTANASIO",
-   "EDITEUR": "POINT IMAGE",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BRAN RUZ",
-   "ALBUM": "",
-   "AUTEURS": "AUCLAIR",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1981,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BRAN RUZ",
-   "ALBUM": "",
-   "AUTEURS": "AUCLAIR",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1981,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CELUI - LA",
-   "ALBUM": "T.2 CELUI QUI ACHEVE",
-   "AUTEURS": "AUCLAIR",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1991,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CELUI - LA",
-   "ALBUM": "T.1 CELUI - LA",
-   "AUTEURS": "AUCLAIR",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1989,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "Tirage de Tête 122 / 400",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "BOULEVARD DES BULLES",
-   "ANNEE": 2009,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "Tirage de Tête H.C 3 / 30",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "BOULEVARD DES BULLES",
-   "ANNEE": 2009,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "Tirage de Tête 88 / 500",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "BOULEVARD DES BULLES",
-   "ANNEE": 2007,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "Tirage de Tête H.C 28 / 30",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "BOULEVARD DES BULLES",
-   "ANNEE": 2006,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "T.4 LA OU BRÛLENT LES REGARDS + Coffret",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2009,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "T.3 LA TERRE DU PROPHETE PÂLE",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2007,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "T.2 LE VENT DE L'EXIL + Carnet de Croquis de 8 pages",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2006,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "T.1 LE SECRET DES EAUX",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIM LE TANNEUR",
-   "ALBUM": "H.S L'ATELIER DE VIRGINIE AUGUSTIN Tirage de Tête 232 / 275 (Dédicacé)",
-   "AUTEURS": "AUGUSTIN",
-   "EDITEUR": "RÊVES DE BULLES",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "DESERTEURS",
-   "ALBUM": "",
-   "AUTEURS": "AUTHEMAN",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1983,
-   "ETAT": "BE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DOPPELGANGER S.A",
-   "ALBUM": "",
-   "AUTEURS": "AVRIL",
-   "EDITEUR": "MAGIC STRIP",
-   "ANNEE": 1986,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "APOCALYPSE MANIA",
-   "ALBUM": "T.5 COSMOSE + Coffret",
-   "AUTEURS": "AYMOND",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "APOCALYPSE MANIA",
-   "ALBUM": "T.4 TRANCE FUSION",
-   "AUTEURS": "AYMOND",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "APOCALYPSE MANIA",
-   "ALBUM": "T.3 GLOBAL UNDERGROUND (Dédicacé)",
-   "AUTEURS": "AYMOND",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CANAL-CHOC",
-   "ALBUM": "T.4 LES CHASSEURS D'INVISIBLE",
-   "AUTEURS": "AYMOND",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1992,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COEUR DE SANG",
-   "ALBUM": "T.3 LE MASQUE DE LOKI",
-   "AUTEURS": "BAILLY",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COEUR DE SANG",
-   "ALBUM": "T.2 LE BRACELET D'ANGBRODE",
-   "AUTEURS": "BAILLY",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COEUR DE SANG",
-   "ALBUM": "T.1 LES CHEVALIERS GUIDES (Dédicacé)",
-   "AUTEURS": "BAILLY",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1995,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CRYOZONE",
-   "ALBUM": "T.1 SUEURS FROIDES (Dédicacé Encre de Couleur)",
-   "AUTEURS": "BAJRAM",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CRYOZONE",
-   "ALBUM": "T.2 SYNDROME Z (Dédicacé Aquarelle)",
-   "AUTEURS": "BAJRAM",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CRYOZONE",
-   "ALBUM": "T.2 SYNDROME Z (Dédicacé Encre de couleur)",
-   "AUTEURS": "BAJRAM",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ARCHIPEL",
-   "ALBUM": "T.1 LE DELUGE",
-   "AUTEURS": "BARBAY",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DE SILENCE ET DE SANG",
-   "ALBUM": "T.13 LE SYSTEME JURADO",
-   "AUTEURS": "BARISON",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DE SILENCE ET DE SANG",
-   "ALBUM": "T.12 LE SCEAU DE CAIN - 2",
-   "AUTEURS": "BARISON",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DE SILENCE ET DE SANG",
-   "ALBUM": "T.11 LE SCEAU DE CAIN - 1",
-   "AUTEURS": "BARISON",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AVENTURES DE PHILIP ET FRANCIS",
-   "ALBUM": "T.2 LE PIEGE MACHIAVELIQUE",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2011,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AVENTURES DE PHILIP ET FRANCIS",
-   "ALBUM": "T.1 MENACES SUR L'EMPIRE",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BAKER STREET",
-   "ALBUM": "T.4 SHERLOCK HOLMES & L'OMBRE DU M",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BAKER STREET",
-   "ALBUM": "T.3 SHERLOCK HOLMES ET LES HOMMES DU CAMELLIA",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BAKER STREET",
-   "ALBUM": "T.2 SHERLOCK HOLMES ET LE CLUB DES SPORTS DANGEREUX",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AILES DE PLOMB",
-   "ALBUM": "T.3 L'AFFAIRE EST DANS LE LAC + Coffret",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BAKER STREET",
-   "ALBUM": "T.1 SHERLOCK HOLMES N'A PEUR DE RIEN",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AILES DE PLOMB",
-   "ALBUM": "T.2 LE VOL DU BALBUZARD",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AILES DE PLOMB",
-   "ALBUM": "T.1 VOL DE NUIT (Dédicacé)",
-   "AUTEURS": "BARRAL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1996,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "FANTOME",
-   "ALBUM": "T.1 L'OMBRE QUI MARCHE",
-   "AUTEURS": "BARRY",
-   "EDITEUR": "HACHETTE",
-   "ANNEE": 1974,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FANTOME",
-   "ALBUM": "T.2 LE JUSTICIER DE LA JUNGLE",
-   "AUTEURS": "BARRY",
-   "EDITEUR": "HACHETTE",
-   "ANNEE": 1974,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COURS CAMARADE !",
-   "ALBUM": "",
-   "AUTEURS": "BARU",
-   "EDITEUR": "ALBIN MICHEL",
-   "ANNEE": 1988,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EVA K.",
-   "ALBUM": "T.3 TRAQUENARD",
-   "AUTEURS": "BARUTI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EVA K.",
-   "ALBUM": "T.2 AMINA",
-   "AUTEURS": "BARUTI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1996,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EVA K.",
-   "ALBUM": "T.1 LES HOMMES DU TRAIN",
-   "AUTEURS": "BARUTI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1995,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHRONIQUES ORIGINELLES",
-   "ALBUM": "T.1 LES ECOLES D'ARSAMIA",
-   "AUTEURS": "BATI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1997,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DES EXPLOITS ET DES HOMMES",
-   "ALBUM": "T.3 L'HOMME DE LA NOUVELLE ANGLETERRE",
-   "AUTEURS": "BATTAGLIA",
-   "EDITEUR": "MON JOURNAL",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DU GRUNGE EN GENETIQUE",
-   "ALBUM": "T.1 REVELATIONS",
-   "AUTEURS": "BAYETO",
-   "EDITEUR": "ERKO",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FORELL",
-   "ALBUM": "T.2 MARCEL L'EMBROUILLE",
-   "AUTEURS": "BAZILE",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1998,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FORELL",
-   "ALBUM": "T.1 GELDA",
-   "AUTEURS": "BAZILE",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1997,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BUNKER",
-   "ALBUM": "T.2 POINT ZERO",
-   "AUTEURS": "BEC",
-   "EDITEUR": "DUPUIS",
-   "ANNEE": 2008,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BUNKER",
-   "ALBUM": "T.1 LES FRONTIERES INTERDITES",
-   "AUTEURS": "BEC",
-   "EDITEUR": "DUPUIS",
-   "ANNEE": 2006,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHIMERES",
-   "ALBUM": "Tirage Limité 251 / 350 + Story Board",
-   "AUTEURS": "BEHE",
-   "EDITEUR": "FOLLE IMAGE",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DECALOGUE",
-   "ALBUM": "T.1 LE MANUSCRIT (Dédicacé Couleur)",
-   "AUTEURS": "BEHE",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CHIMERES",
-   "ALBUM": "T.1 APHRODITE + Carnet de croquis",
-   "AUTEURS": "BEHE",
-   "EDITEUR": "VENTS D'OUEST",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COMPAGNONS DU REVE",
-   "ALBUM": "T.2 LA FENETRE OUBLIEE",
-   "AUTEURS": "BEJA",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1991,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COMPAGNONS DU REVE",
-   "ALBUM": "T.1 L'OMBRE DU MANGOU",
-   "AUTEURS": "BEJA",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLEOPATRE",
-   "ALBUM": "T.2 PASSEPORT POUR HONG KONG",
-   "AUTEURS": "BELTRAN",
-   "EDITEUR": "ARTEFACT",
-   "ANNEE": 1985,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLEOPATRE",
-   "ALBUM": "T.1 LA PYRAMIDE DE CRYSTAL",
-   "AUTEURS": "BELTRAN",
-   "EDITEUR": "ARTEFACT",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLOSH",
-   "ALBUM": "T.2 CLOSH EN STOCK (Dédicacé)",
-   "AUTEURS": "BEN RADIS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1982,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CLOSH",
-   "ALBUM": "T.5 LES CLOSH AU FLOP 50",
-   "AUTEURS": "BEN RADIS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1989,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLOSH",
-   "ALBUM": "T.4 ROCK AROUND THE CLOSH",
-   "AUTEURS": "BEN RADIS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLOSH",
-   "ALBUM": "T.3 COCO NIGHT",
-   "AUTEURS": "BEN RADIS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1983,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLOSH",
-   "ALBUM": "T.1 PARIS SKOUILLE-T-IL ? + disque (Dédicacé)",
-   "AUTEURS": "BEN RADIS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1981,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ELMER ET MOI",
-   "ALBUM": "T.2 LES REGLES DU JEU",
-   "AUTEURS": "BENN",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ELMER ET MOI",
-   "ALBUM": "T.1 LE CHOIX DES MOYENS (Dédicacé)",
-   "AUTEURS": "BENN",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1988,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BLAKE ET MORTIMER",
-   "ALBUM": "LE VEHICULE DU FUTUR + Ex-libris Publicité Citröen",
-   "AUTEURS": "BENOIT",
-   "EDITEUR": "BLAKE & MORTIMER",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BLAKE ET MORTIMER",
-   "ALBUM": "CARS Port-folio 145 / 275",
-   "AUTEURS": "BENOIT",
-   "EDITEUR": "CHAMPAKA",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BLAKE ET MORTIMER",
-   "ALBUM": "PORTRAITS Port-folio 75 / 175",
-   "AUTEURS": "BENOIT",
-   "EDITEUR": "CHAMPAKA",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FEMMES EN BLANC",
-   "ALBUM": "T.4 LES JEUNES FILLES OPERENT",
-   "AUTEURS": "BERCOVICI",
-   "EDITEUR": "DUPUIS",
-   "ANNEE": 1988,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FEMMES EN BLANC",
-   "ALBUM": "T.3 SUPERPIQUEES",
-   "AUTEURS": "BERCOVICI",
-   "EDITEUR": "DUPUIS",
-   "ANNEE": 1987,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BUCK DANNY",
-   "ALBUM": "DOSSIER PRESSE de 12 Pages + Ex-libris 36 / 50",
-   "AUTEURS": "BERGESE",
-   "EDITEUR": "CLEOPAS",
-   "ANNEE": 2010,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BUCK DANNY",
-   "ALBUM": "T.51 MYSTERE EN ANTARCTIQUE Tirage de Tête H.C 18 / 70 + Maquette Avion (Dédicacé)",
-   "AUTEURS": "BERGESE",
-   "EDITEUR": "CLEOPAS",
-   "ANNEE": 2010,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CŒUR TAM-TAM",
-   "ALBUM": "",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.7 L'ÂNE EN CULOTTE",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD Hors série",
-   "ALBUM": "T.2 P'TITES HISTOIRES A L'ECOLE",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.6 SOUS L'AILE DU DIABLE",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.5 LE MOUCHEUR",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD Hors série",
-   "ALBUM": "T.1 P'TITES HISTOIRES COURTES",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1996,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.3 L'ŒIL DE VITRE",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1995,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.4 L'ARBRE AU PIERROT",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1995,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.2 LA BOUCHOLEUSE",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CADET DES SOUPETARD",
-   "ALBUM": "T.1 LA LOUCHE",
-   "AUTEURS": "BERLION",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1993,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CRI DU VAMPIRE",
-   "ALBUM": "",
-   "AUTEURS": "BERNET",
-   "EDITEUR": "ALBIN MICHEL",
-   "ANNEE": 2001,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ANDRAX",
-   "ALBUM": "",
-   "AUTEURS": "BERNET",
-   "EDITEUR": "PEPLUM",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIENATION",
-   "ALBUM": "",
-   "AUTEURS": "BEROY",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1989,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ENFER DES PELGRAM",
-   "ALBUM": "T.2 CELLE QUI JETTE UNE OMBRE",
-   "AUTEURS": "BERTAIL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ENFER DES PELGRAM",
-   "ALBUM": "T.1 QUI MARCHE SUR MA TOMBE ? (Dédicacé)",
-   "AUTEURS": "BERTAIL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CRIME QUI EST LE TIEN",
-   "ALBUM": "Tirage de Tête 45 / 300",
-   "AUTEURS": "BERTHET",
-   "EDITEUR": "BRUNO GRAFF",
-   "ANNEE": 2015,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHIENS DE PRAIRIE",
-   "ALBUM": "T.1 Tirage de Tête 190 / 550",
-   "AUTEURS": "BERTHET",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1996,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHIENS DE PRAIRIE",
-   "ALBUM": "",
-   "AUTEURS": "BERTHET",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1996,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COULEUR CAFE",
-   "ALBUM": "",
-   "AUTEURS": "BERTHET",
-   "EDITEUR": "DUPUIS",
-   "ANNEE": 1986,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ANIBAL CINQ",
-   "ALBUM": "T.2 CHAIR D'ORCHIDEE POUR LE CYBORG",
-   "AUTEURS": "BESS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1992,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ANIBAL CINQ",
-   "ALBUM": "T.1 DIX FEMMES AVANT DE MOURIR",
-   "AUTEURS": "BESS",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ETRANGE NUIT DE MONSIEUR KORB",
-   "ALBUM": "",
-   "AUTEURS": "BEZIAN",
-   "EDITEUR": "MAGIC STRIP",
-   "ANNEE": 1982,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "GALFALEK",
-   "ALBUM": "T.4 LE CREPUSCULE DES ROIS",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2005,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "GALFALEK",
-   "ALBUM": "T.3 LES \"HAUTS MURS\"",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2002,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "GALFALEK",
-   "ALBUM": "T.2 LE CERCLE + 8 pages de croquis",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2001,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "GALFALEK",
-   "ALBUM": "T.1 LE GANT DE L'OUBLI",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1999,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "GALFALEK",
-   "ALBUM": "Collection 2B + Crayonnés",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "GALFALEK",
-   "ALBUM": "Collection 2B + Crayonnés (Dédicacé)",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ARGYLL DE MARACANDE",
-   "ALBUM": "T.2 LA TRAQUE",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARGYLL DE MARACANDE",
-   "ALBUM": "T.1 L'HERITIER DU TRONE",
-   "AUTEURS": "BIANCARELLI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CULOTTES COURTES ET SOUTANES NOIRES",
-   "ALBUM": "",
-   "AUTEURS": "BIARD",
-   "EDITEUR": "ALBIN MICHEL",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ANIMAL'Z",
-   "ALBUM": "+ Coffret Canal BD + 3 Planches de 4 Ex-Libris + Dépliant \"en accordéon\"",
-   "AUTEURS": "BILAL",
-   "EDITEUR": "CANAL BD",
-   "ANNEE": 2009,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BUG",
-   "ALBUM": "T.1 Couverture FNAC",
-   "AUTEURS": "BILAL",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2017,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COEURS SANGLANTS ET AUTRES FAITS DIVERS",
-   "ALBUM": "",
-   "AUTEURS": "BILAL",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1988,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CROISIERE DES OUBLIES",
-   "ALBUM": "",
-   "AUTEURS": "BILAL",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1975,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CRUX UNIVERSALIS",
-   "ALBUM": "(Signé)",
-   "AUTEURS": "BILAL",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1982,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EXTERMINATEUR 17",
-   "ALBUM": "(Dédicacé)",
-   "AUTEURS": "BILAL",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1979,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ALLO-NE QUITTEZ PAS !",
-   "ALBUM": "",
-   "AUTEURS": "BILLON",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1982,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DICK SWEENIE",
-   "ALBUM": "",
-   "AUTEURS": "BLAIR",
-   "EDITEUR": "PAQUET",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COURTS-METRAGES",
-   "ALBUM": "",
-   "AUTEURS": "BLANC-DUMONT",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1985,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COLBY",
-   "ALBUM": "T.3 BOMBARDIER POUR MEXICO",
-   "AUTEURS": "BLANC-DUMONT",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COLBY",
-   "ALBUM": "T.2 LE SOLEIL VA MOURIR DEUX FOIS",
-   "AUTEURS": "BLANC-DUMONT",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1992,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COLBY",
-   "ALBUM": "T.1 ALTITUDE MOINS TRENTE",
-   "AUTEURS": "BLANC-DUMONT",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1991,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DONA",
-   "ALBUM": "T.1 L'OISEAU DE NUIT + Carnet graphique de 8 pages",
-   "AUTEURS": "BODARD",
-   "EDITEUR": "CLAIR DE LUNE",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DONA",
-   "ALBUM": "T.1 L'OISEAU DE NUIT + Carnet graphique de 8 pages (Dédicacé)",
-   "AUTEURS": "BODARD",
-   "EDITEUR": "CLAIR DE LUNE",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CELESTIN SPECULOOS",
-   "ALBUM": "T.2 MAI 68",
-   "AUTEURS": "BODART",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1993,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BODE",
-   "ALBUM": "Collection 30 / 40",
-   "AUTEURS": "BODE",
-   "EDITEUR": "FUTUROPOLIS",
-   "ANNEE": 1975,
-   "ETAT": "BE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ECHEC ET AUDIMAT",
-   "ALBUM": "",
-   "AUTEURS": "BODET",
-   "EDITEUR": "FUTUROPOLIS",
-   "ANNEE": 1988,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BLAIREAU",
-   "ALBUM": "T.1 BRENDA",
-   "AUTEURS": "BOËM",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1990,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BLAIREAU",
-   "ALBUM": "T.2 MARIE-LAURE",
-   "AUTEURS": "BOËM",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHARLOTTE IMPERATRICE",
-   "ALBUM": "T,1 LA PRINCESSE ET L'ARCHIDUC Tirage de Tête sous Emboîtage 230 / 350",
-   "AUTEURS": "BONHOMME",
-   "EDITEUR": "BLACK & WHITE",
-   "ANNEE": 2018,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.8 AU NOM DU FILS",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2007,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.7 WINTERTIME",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2006,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.6 REMEMBER",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.5 LA MEMOIRE VOLEE (Signé)",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.4 LES SABLES DU TEMPS",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.3 LE MANGEUR D'AMES (Dédicacé)",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.2 LE DESTIN DE JANE",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOG",
-   "ALBUM": "T.1 LE TUMULUS (Dédicacé)",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CHAMBRE OBSCURE",
-   "ALBUM": "T.2 + Coffret + Ex-Libris 287 / 500 (Dessin original sur feuille)",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2011,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CHAMBRE OBSCURE",
-   "ALBUM": "T.1 + Ex-Libris 820 / 1 000 (Dessin original sur feuille)",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 2010,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "DELICATESSE",
-   "ALBUM": "",
-   "AUTEURS": "BONIN",
-   "EDITEUR": "FUTUROPOLIS",
-   "ANNEE": 2016,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ATTILA MON AMOUR",
-   "ALBUM": "T.2 LES PORTES DE FER",
-   "AUTEURS": "BONNET",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1999,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ATTILA MON AMOUR",
-   "ALBUM": "T.5 TERRES BRULEES (Dédicacé)",
-   "AUTEURS": "BONNET",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "ATTILA MON AMOUR",
-   "ALBUM": "T.1 LUPA, LA LOUVE (Dédicacé)",
-   "AUTEURS": "BONNET",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CATHARES",
-   "ALBUM": "T.2 CHASSE A L'HOMME (Dédicacé + Aquarelle)",
-   "AUTEURS": "BONO",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2012,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CATHARES",
-   "ALBUM": "T.1 LE SANG DES MARTYRS",
-   "AUTEURS": "BONO",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2011,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CREATURE",
-   "ALBUM": "T.1 CHIMERES",
-   "AUTEURS": "BORIS",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2003,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DOG MENGO",
-   "ALBUM": "T,1 JAGUAR + 8 pages de carnet de croquis",
-   "AUTEURS": "BOSSCHAERT",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EMPEREUR DU DERNIER JOUR",
-   "ALBUM": "T.2 JOACHIM",
-   "AUTEURS": "BOUBE",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1995,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EMPEREUR DU DERNIER JOUR",
-   "ALBUM": "T.1 LE PRINCE VAUTOUR",
-   "AUTEURS": "BOUBE",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "EPEE DE CRISTAL",
-   "ALBUM": "T.6 LE CERCLE DU TEMPS",
-   "AUTEURS": "BOUBE",
-   "EDITEUR": "VENTS D'OUEST",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHRONIQUES DE SAINT-CYPRIEN",
-   "ALBUM": "T.2 UNE VALISE POUR JUPITER",
-   "AUTEURS": "BOUCHARD",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1982,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHRONIQUES DE SAINT-CYPRIEN",
-   "ALBUM": "T.1 LA CHAPELLE DU DEMON",
-   "AUTEURS": "BOUCHARD",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1981,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.2 LA PITIE DES BOURREAUX + Coffret + Carnet graphique",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "CANAL BD",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DERISOIRE EFFERVESCENCE DES COMPRIMES",
-   "ALBUM": "",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1991,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUCHE DU DIABLE",
-   "ALBUM": "",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1990,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FEMME DU MAGICIEN",
-   "ALBUM": "",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1986,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FACE DE LUNE",
-   "ALBUM": "T.2 LA PIERRE DE FAITE",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FACE DE LUNE",
-   "ALBUM": "T.1 LA CATHEDRALE INVISIBLE",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1992,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.9 AND BACK + Coffret + Ex-Libris",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2013,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.7 CŒUR DOUBLE + Coffret",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 2009,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.6 LA VEUVE NOIRE",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 2008,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.5 LA PROIE DES LOUVES Tirage Limité N & B 2 000 ex",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 2006,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.4 LA VENGEANCE DU MANCHOT",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.3 LA JUSTICE DES SERPENTS",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.1 UN DIAMANT POUR L'AU-DELA (Dédicacé)",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "Tirage de Tête 16 / 333 + Triptyque 16 / 150",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "ZABOUNGA",
-   "ANNEE": 2014,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUNCER",
-   "ALBUM": "T.8 TO HELL Tirage de Tête 41 / 265 + Ex-Lbris 41 / 100 (Dédicacé)",
-   "AUTEURS": "BOUCQ",
-   "EDITEUR": "ZABOUNGA",
-   "ANNEE": 2012,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CYCLE DE CYANN",
-   "ALBUM": "LA CLE DES CONFINS (Carnet graphique) + Coffret Canal BD",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CYCLE DE CYANN",
-   "ALBUM": "T.2 SIX SAISONS SUR ILO",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CYCLE DE CYANN",
-   "ALBUM": "T.1 LA SOURCE ET L'ONDE",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1993,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COMPAGNONS DU CREPUSCULE",
-   "ALBUM": "T.3 LE DERNIER CHANT DES MALATERRE",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1990,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COMPAGNONS DU CREPUSCULE",
-   "ALBUM": "T.2 LES YEUX D'ETAIN DE LA VILLE GLAUQUE",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1986,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COMPAGNONS DU CREPUSCULE",
-   "ALBUM": "T.1 LE SORTILEGE DU BOIS DES BRUMES",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "CASTERMAN",
-   "ANNEE": 1984,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CYCLE DE CYANN",
-   "ALBUM": "T.4 LES COULOIRS DE MARCADE",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "VENTS D'OUEST",
-   "ANNEE": 2007,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CYCLE DE CYANN",
-   "ALBUM": "T.3 AÏEÏA D'ALDAAL",
-   "AUTEURS": "BOURGEON",
-   "EDITEUR": "VENTS D'OUEST",
-   "ANNEE": 2005,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FRANK LINCOLN",
-   "ALBUM": "T.1 LA LOI DU GRAND NORD",
-   "AUTEURS": "BOURGNE",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALIAS",
-   "ALBUM": "",
-   "AUTEURS": "BRANDOLI",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1989,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALVAR MAYOR",
-   "ALBUM": "",
-   "AUTEURS": "BRECCIA",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1983,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AGUIRRE",
-   "ALBUM": "",
-   "AUTEURS": "BRECCIA",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1991,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DOCTEUR FU-MANCHU",
-   "ALBUM": "T.1 LE MAITRE DU MONDE",
-   "AUTEURS": "BRESSY",
-   "EDITEUR": "HACHETTE",
-   "ANNEE": 1975,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARCANE,LE GRAND SORCIER",
-   "ALBUM": "",
-   "AUTEURS": "BROCAL REMOHI",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1978,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CLANDESTINO",
-   "ALBUM": "T.1 NOËL AU PARADIS Tirage Limité Toilé n° 22 562 / 1 200 ex + 8 pages Dossier graphique + Ex-Libris",
-   "AUTEURS": "BUFI",
-   "EDITEUR": "CANAL BD",
-   "ANNEE": 2013,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COLEMAN WALLACE",
-   "ALBUM": "T.1 LA PIERRE D'ONYX + 8 pages d'illustrations et d'esquisses",
-   "AUTEURS": "BURTON",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2000,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COLEMAN WALLACE",
-   "ALBUM": "T.1 LA PIERRE D'ONYX + 8 pages d'illustrations et d'esquisses (Dédicacé Couleur)",
-   "AUTEURS": "BURTON",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2000,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "COLEMAN WALLACE",
-   "ALBUM": "T.1 LA PIERRE D'ONYX + 8 pages d'illustrations et d'esquisses (Dédicacé)",
-   "AUTEURS": "BURTON",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2000,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "COLEMAN WALLACE",
-   "ALBUM": "T.3 EDEN PRIME",
-   "AUTEURS": "BURTON",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COLEMAN WALLACE",
-   "ALBUM": "T.2 LE SIEGE DE ZANADAR",
-   "AUTEURS": "BURTON",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AGNONE",
-   "ALBUM": "",
-   "AUTEURS": "BUZZELLI",
-   "EDITEUR": "DARGAUD",
-   "ANNEE": 1980,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DEMONS",
-   "ALBUM": "",
-   "AUTEURS": "BUZZELLI",
-   "EDITEUR": "FROMAGE",
-   "ANNEE": 1980,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALANDOR",
-   "ALBUM": "T.2 L'ANGE CARNIVORE",
-   "AUTEURS": "CADELO",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1986,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ALANDOR",
-   "ALBUM": "T.1 LE DIEU JALOUX",
-   "AUTEURS": "CADELO",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1984,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "AULGE",
-   "ALBUM": "",
-   "AUTEURS": "CAILLON",
-   "EDITEUR": "ARTEFACT",
-   "ANNEE": 1979,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COQUIN",
-   "ALBUM": "T.2 LES MEMOIRES DE COQUIN",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "FUTUROPOLIS",
-   "ANNEE": 1979,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHEVALIER DU FEU",
-   "ALBUM": "N / B",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "FUTUROPOLIS",
-   "ANNEE": 1976,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BETE EST MORTE",
-   "ALBUM": "T.1 QUAND LA BETE EST DECHAINEE",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "G.P",
-   "ANNEE": 1945,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BETE EST MORTE",
-   "ALBUM": "T.2 QUAND LA BETE EST TERRASSEE",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "G.P",
-   "ANNEE": 1945,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "COQUIN",
-   "ALBUM": "T.2 COQUIN ET SES AMIS DU CIRQUE",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "GAUTIER-LANGUEREAU",
-   "ANNEE": 1954,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CHEVALIER DU FEU",
-   "ALBUM": "Couleur",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "GIRAUD-RIVOIRE",
-   "ANNEE": 1948,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CRICRI",
-   "ALBUM": "T.1 CRICRI CONTRE MATOU",
-   "AUTEURS": "CALVO",
-   "EDITEUR": "MIREILLE",
-   "ANNEE": 1957,
-   "ETAT": "BE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FROM HELL",
-   "ALBUM": "",
-   "AUTEURS": "CAMPBELL",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2000,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARCANES",
-   "ALBUM": "T.2 LA DAME DE PRAGUE + Dossier confidentiel (cartes)",
-   "AUTEURS": "CAMPOY & PIGNAULT",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARCANES",
-   "ALBUM": "T.1 LE BARON FANTOME",
-   "AUTEURS": "CAMPOY & PIGNAULT",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ARENES",
-   "ALBUM": "",
-   "AUTEURS": "CANAL",
-   "EDITEUR": "MAGIC STRIP",
-   "ANNEE": 1986,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DICKIE DARE",
-   "ALBUM": "T.1 (1933-1934)",
-   "AUTEURS": "CANIFF",
-   "EDITEUR": "FUTUROPOLIS",
-   "ANNEE": 1983,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOURREAU",
-   "ALBUM": "T.1 JUSTICE DIVINE ? (Dédicacé)",
-   "AUTEURS": "CARETTE",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2016,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "DIABLES BLEUS",
-   "ALBUM": "Tirage Limité 397 / 1 000 + Ex-libris 129 / 250 (Dédicacé)",
-   "AUTEURS": "CARIN",
-   "EDITEUR": "POINT IMAGE",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CHARLIE PARKER",
-   "ALBUM": "",
-   "AUTEURS": "CASSARO",
-   "EDITEUR": "DESIBA",
-   "ANNEE": 1980,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUFFE-DOUBLON",
-   "ALBUM": "T.3 A MALIN, MALIN ET DEMI",
-   "AUTEURS": "CASSINI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUFFE-DOUBLON",
-   "ALBUM": "T.2 A L'OUEST D'EDEN",
-   "AUTEURS": "CASSINI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 2000,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOUFFE-DOUBLON",
-   "ALBUM": "T.1 LE TRESOR DE LA MADRE DE DIOS",
-   "AUTEURS": "CASSINI",
-   "EDITEUR": "SOLEIL PRODUCTION",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CONTES DES HAUTES TERRES",
-   "ALBUM": "T.1 LA LONGUE NUIT",
-   "AUTEURS": "CASTAZA",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ASTER",
-   "ALBUM": "T.2 ARYAMA",
-   "AUTEURS": "CAUUET",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2004,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ASTER",
-   "ALBUM": "T.2 ARYAMA",
-   "AUTEURS": "CAUUET",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2004,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ASTER",
-   "ALBUM": "T.1 OUPANISHADS (Dédicace Aquarelle)",
-   "AUTEURS": "CAUUET",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 2003,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CHRONIQUES DE LA TERRE FIXE",
-   "ALBUM": "T.1 NOCTURNES (Dédicacé)",
-   "AUTEURS": "CAZA",
-   "EDITEUR": "DELCOURT",
-   "ANNEE": 1999,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "CAPITAINE FANTOME",
-   "ALBUM": "T.1 CAPITAINE FANTOME",
-   "AUTEURS": "CAZANAVE",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1976,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CORPS DIPLOMATIQUE",
-   "ALBUM": "T.1 CORPS DIPLOMATIQUE",
-   "AUTEURS": "CEPPI",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1991,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CORPS DIPLOMATIQUE",
-   "ALBUM": "T.2 LA FEMME PIEGEE",
-   "AUTEURS": "CEPPI",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1991,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "CROCO AND CO.",
-   "ALBUM": "",
-   "AUTEURS": "CEPPI",
-   "EDITEUR": "L' ESSAI",
-   "ANNEE": 1986,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DERNIERE PROPHETIE",
-   "ALBUM": "T.1 VOYAGE AUX ENFERS",
-   "AUTEURS": "CHAILLET",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DERNIERE PROPHETIE",
-   "ALBUM": "T.1 VOYAGE AUX ENFERS Tirage Limité 3 000 ex + esquisses (Signé) (Dédicacé)",
-   "AUTEURS": "CHAILLET",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "Tirage de Tête sous emboîtage H.C 1 / 20",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HENNEBELLE",
-   "ANNEE": 2012,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "Tirage de Tête sous emboîtage H.C 1 / 20",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HENNEBELLE",
-   "ANNEE": 2011,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "T.5 F.52",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1989,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "T.2 LE CIMETIERE DES ELEPHANTS",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1984,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "BOB FISH",
-   "ALBUM": "Tirage de Tête non gondolé 925 / 999",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1981,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "T.4 VACANCES A BUDAPEST",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1988,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "T.3 LA COMETE DE CARTHAGE",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "HUMANOÏDES ASSOCIES",
-   "ANNEE": 1986,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FREDDY LOMBARD",
-   "ALBUM": "T.1 LE TESTAMENT DE GODEFFROID DE BOUILLON",
-   "AUTEURS": "CHALAND",
-   "EDITEUR": "MAGIC STRIP",
-   "ANNEE": 1981,
-   "ETAT": "TBE",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "Tirage de Tête 274 / 300 (Dédicacé Couleur)",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "BD MUST",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "BAL DU RAT MORT",
-   "ALBUM": "(Dédicacé Aquarelle)",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "DELIGNE",
-   "ANNEE": 1980,
-   "ETAT": "TBE",
-   "DEDICACE": "Oui"
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "Carnet de croquis 112 / 225",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "ESPACE BD",
-   "ANNEE": 2002,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DECALOGUE",
-   "ALBUM": "T.3 LE METEORE",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "DECALOGUE",
-   "ALBUM": "T.3 LE METEORE",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "ESQUISSES ET TOILES",
-   "ALBUM": "",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 2001,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "T.7 LOS ALAMOS, TRINITY",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1998,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "T.6 JOURS CORBEAUX",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1997,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "T.5 LE CLUB DES MOMIES",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1996,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "T.4 LE DIEU ROUGE",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1994,
-   "ETAT": "NEUF",
-   "DEDICACE": ""
- },
- {
-   "SERIE": "FOX",
-   "ALBUM": "T.3 RAIS EL DJEMAT (Dédicacé Aquarelle)",
-   "AUTEURS": "CHARLES",
-   "EDITEUR": "GLENAT",
-   "ANNEE": 1993,
-   "ETAT": "NEUF",
-   "DEDICACE": "Oui"
- }
-]
+{"ID":"1","SERIE":"ENFER DU DECOR","ALBUM":"","AUTEURS":"AB' AIGRE","EDITEUR":"L' ESSAI","ANNEE":"1986","ETAT":"TBE","DEDICACE":""},
+{"ID":"2","SERIE":"BLUES","ALBUM":"","AUTEURS":"AB' AIGRE","EDITEUR":"PAQUET","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"3","SERIE":"BIG TWIN","ALBUM":"","AUTEURS":"ACHDE","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1997","ETAT":"TBE","DEDICACE":""},
+{"ID":"4","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.10 A LA RECHERCHE DU TEMPS PERDU","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"2000","ETAT":"TBE","DEDICACE":""},
+{"ID":"5","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.9 DE PROFUNDIS","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"6","SERIE":"DAYAK","ALBUM":"T.3 ZAKS","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"7","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.8 LA MORT DE NICOLAS","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"8","SERIE":"DAYAK","ALBUM":"T.2 LA CHAMBRE VERTE","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"9","SERIE":"DAYAK","ALBUM":"T.1 GHETTO 9","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1993","ETAT":"NEUF","DEDICACE":""},
+{"ID":"10","SERIE":"DAYAK","ALBUM":"T.1 GHETTO 9 Tirage Limit� 2 000ex + esquisses + Coffret","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1993","ETAT":"NEUF","DEDICACE":""},
+{"ID":"11","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.5 VAGUE A LAMES","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1992","ETAT":"NEUF","DEDICACE":""},
+{"ID":"12","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.4 LES YEUX DE NICOLAS","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"13","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.3 LE PRINCE ET LA POUPEE","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1989","ETAT":"NEUF","DEDICACE":""},
+{"ID":"14","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.2 LE CAFE DU PORT","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1987","ETAT":"NEUF","DEDICACE":""},
+{"ID":"15","SERIE":"EAUX DE MORTELUNE","ALBUM":"T.1 L'ECHIQUIER DU RAT","AUTEURS":"ADAMOV","EDITEUR":"GLENAT","ANNEE":"1986","ETAT":"NEUF","DEDICACE":""},
+{"ID":"16","SERIE":"BERNARD PRINCE","ALBUM":"T.16 LA DYNAMITERA","AUTEURS":"AIDANS","EDITEUR":"BLANCO","ANNEE":"1992","ETAT":"TBE","DEDICACE":""},
+{"ID":"17","SERIE":"BELLADONE","ALBUM":"Tirage Limit� + Story Board + Cd 57 / 150","AUTEURS":"ALARY","EDITEUR":"FOLLE IMAGE","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"18","SERIE":"BELLADONE","ALBUM":"T.2 MAXIME","AUTEURS":"ALARY","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2005","ETAT":"TBE","DEDICACE":""},
+{"ID":"19","SERIE":"BELLADONE","ALBUM":"T.1 MARIE","AUTEURS":"ALARY","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2004","ETAT":"TBE","DEDICACE":""},
+{"ID":"20","SERIE":"BELLADONE","ALBUM":"Collection 2B + Crayonn�s (D�dicac�)","AUTEURS":"ALARY","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2004","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"21","SERIE":"ABRAXAS","ALBUM":"T.2 LE RIDEAU GRIS (D�dicac�)","AUTEURS":"ALFRED","EDITEUR":"DELCOURT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"22","SERIE":"DIGUE","ALBUM":"(D�dicac�)","AUTEURS":"ALFRED","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"23","SERIE":"FARIBOLES SIDERALES","ALBUM":"","AUTEURS":"ALIAS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1979","ETAT":"TBE","DEDICACE":""},
+{"ID":"24","SERIE":"ECLUSES DU CIEL","ALBUM":"T.7 TIFFEN","AUTEURS":"ALLOT","EDITEUR":"GLENAT","ANNEE":"1994","ETAT":"TBE","DEDICACE":""},
+{"ID":"25","SERIE":"ECLUSES DU CIEL","ALBUM":"T.6 TOMBELAINE","AUTEURS":"ALLOT","EDITEUR":"GLENAT","ANNEE":"1991","ETAT":"TBE","DEDICACE":""},
+{"ID":"26","SERIE":"ECLUSES DU CIEL","ALBUM":"T.5 LE PAYS BLANC","AUTEURS":"ALLOT","EDITEUR":"GLENAT","ANNEE":"1990","ETAT":"TBE","DEDICACE":""},
+{"ID":"27","SERIE":"ECLUSES DU CIEL","ALBUM":"T.4 AVALON","AUTEURS":"ALLOT","EDITEUR":"GLENAT","ANNEE":"1988","ETAT":"TBE","DEDICACE":""},
+{"ID":"28","SERIE":"CROMWELL STONE","ALBUM":"T.3 LE TESTAMENT DE CROMWELL STONE","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"29","SERIE":"ARQ","ALBUM":"T.7 DORRO ZENGU","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"2003","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"30","SERIE":"ARQ","ALBUM":"T.6 REVEIL","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"31","SERIE":"ARQ","ALBUM":"T.5 WHITE DUST","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"32","SERIE":"ARQ","ALBUM":"T.4 RACKEN","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"33","SERIE":"ARQ","ALBUM":"T.2 MEMOIRES 1","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"34","SERIE":"ARQ","ALBUM":"T.3 MEMOIRES 2","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"35","SERIE":"ARQ","ALBUM":"T.1 AILLEURS","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"36","SERIE":"CROMWELL STONE","ALBUM":"T.2 LE RETOUR DE CROMWELL STONE","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"37","SERIE":"CROMWELL STONE","ALBUM":"Tirage Limit� 222 / 950","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"38","SERIE":"AZTEQUES","ALBUM":"","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1992","ETAT":"NEUF","DEDICACE":""},
+{"ID":"39","SERIE":"DERIVES","ALBUM":"","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1991","ETAT":"NEUF","DEDICACE":""},
+{"ID":"40","SERIE":"COUTOO","ALBUM":"","AUTEURS":"ANDREAS","EDITEUR":"DELCOURT","ANNEE":"1985","ETAT":"NEUF","DEDICACE":""},
+{"ID":"41","SERIE":"CROMWELL STONE","ALBUM":"T.1 CROMWELL STONE","AUTEURS":"ANDREAS","EDITEUR":"DELIGNE","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"42","SERIE":"CYRRUS","ALBUM":"","AUTEURS":"ANDREAS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"43","SERIE":"CAPRICORNE","ALBUM":"T.9 LE PASSAGE","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"44","SERIE":"CAPRICORNE","ALBUM":"T.8 TUNNEL","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"45","SERIE":"CAPRICORNE","ALBUM":"T.7 LE DRAGON BLEU","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"46","SERIE":"CAPRICORNE","ALBUM":"T.6 ATTAQUE","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"47","SERIE":"CAPRICORNE","ALBUM":"T.5 LE SECRET","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"48","SERIE":"CAPRICORNE","ALBUM":"T.4 LE CUBE NUMERIQUE","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"49","SERIE":"CAPRICORNE","ALBUM":"T.3 DELIAH","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"50","SERIE":"CAPRICORNE","ALBUM":"T.1 L'OBJET","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"51","SERIE":"CAPRICORNE","ALBUM":"T.2 ELECTRICITE","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"52","SERIE":"CAVERNE DU SOUVENIR","ALBUM":"","AUTEURS":"ANDREAS","EDITEUR":"LOMBARD","ANNEE":"1985","ETAT":"NEUF","DEDICACE":""},
+{"ID":"53","SERIE":"AMERE RUSSIE","ALBUM":"T.1 LES AMAZONES DE BASSA�EV Tirage Limit� Toil� n� 34 899 / 1000 + 8 pages Dossier graphique + Ex-Libris","AUTEURS":"ANLOR","EDITEUR":"CANAL BD","ANNEE":"2014","ETAT":"NEUF","DEDICACE":""},
+{"ID":"54","SERIE":"EWEN","ALBUM":"T.1 ALIS + Carnet graphique de 32 pages (D�dicac�)","AUTEURS":"ARINOUCHKINE","EDITEUR":"MAGHEN","ANNEE":"2008","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"55","SERIE":"ANTON SIX","ALBUM":"","AUTEURS":"ARNO","EDITEUR":"ALBIN MICHEL","ANNEE":"1987","ETAT":"NEUF","DEDICACE":""},
+{"ID":"56","SERIE":"CH�NE DU REVEUR","ALBUM":"","AUTEURS":"ARNO","EDITEUR":"BAYARD","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"57","SERIE":"ALEF-THAU","ALBUM":"T.7 LA PORTE DE LA VERITE","AUTEURS":"ARNO","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"58","SERIE":"ALEF-THAU","ALBUM":"Tirage Limit� sign� 81 / 850","AUTEURS":"ARNO","EDITEUR":"JONAS","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"59","SERIE":"COMMENT FAIRE FORTUNE EN JUIN 40","ALBUM":"","AUTEURS":"ASTIER","EDITEUR":"CASTERMAN","ANNEE":"2015","ETAT":"NEUF","DEDICACE":""},
+{"ID":"60","SERIE":"BOB MORANE","ALBUM":"T.4 LE COLLIER DE CIVA (D�dicac�)","AUTEURS":"ATTANASIO","EDITEUR":"MARABOUT","ANNEE":"1963","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"61","SERIE":"BOB MORANE","ALBUM":"T.3 LES TOURS DE CRISTAL (D�dicac�)","AUTEURS":"ATTANASIO","EDITEUR":"MARABOUT","ANNEE":"1962","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"62","SERIE":"BOB MORANE","ALBUM":"T.1 L'OISEAU DE FEU (D�dicac�)","AUTEURS":"ATTANASIO","EDITEUR":"MARABOUT","ANNEE":"1960","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"63","SERIE":"BOB MORANE","ALBUM":"T.5 BOB MORANE CONTRE LA TERREUR VERTE (D�dicac�)","AUTEURS":"ATTANASIO","EDITEUR":"MARABOUT","ANNEE":"1963","ETAT":"BE","DEDICACE":"Oui"},
+{"ID":"64","SERIE":"BOB MORANE","ALBUM":"T.2 LE SECRET DE L'ANTARCTIQUE (D�dicac�)","AUTEURS":"ATTANASIO","EDITEUR":"MARABOUT","ANNEE":"1962","ETAT":"BE","DEDICACE":"Oui"},
+{"ID":"65","SERIE":"DINO ATTANASIO","ALBUM":"Carnet de route... et d'une vie 382 / 750 (D�dicac�)","AUTEURS":"ATTANASIO","EDITEUR":"POINT IMAGE","ANNEE":"1999","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"66","SERIE":"BRAN RUZ","ALBUM":"","AUTEURS":"AUCLAIR","EDITEUR":"CASTERMAN","ANNEE":"1981","ETAT":"TBE","DEDICACE":""},
+{"ID":"67","SERIE":"BRAN RUZ","ALBUM":"","AUTEURS":"AUCLAIR","EDITEUR":"CASTERMAN","ANNEE":"1981","ETAT":"TBE","DEDICACE":""},
+{"ID":"68","SERIE":"CELUI - LA","ALBUM":"T.2 CELUI QUI ACHEVE","AUTEURS":"AUCLAIR","EDITEUR":"CASTERMAN","ANNEE":"1991","ETAT":"NEUF","DEDICACE":""},
+{"ID":"69","SERIE":"CELUI - LA","ALBUM":"T.1 CELUI - LA","AUTEURS":"AUCLAIR","EDITEUR":"CASTERMAN","ANNEE":"1989","ETAT":"NEUF","DEDICACE":""},
+{"ID":"70","SERIE":"ALIM LE TANNEUR","ALBUM":"Tirage de T�te 122 / 400","AUTEURS":"AUGUSTIN","EDITEUR":"BOULEVARD DES BULLES","ANNEE":"2009","ETAT":"NEUF","DEDICACE":""},
+{"ID":"71","SERIE":"ALIM LE TANNEUR","ALBUM":"Tirage de T�te H.C 3 / 30","AUTEURS":"AUGUSTIN","EDITEUR":"BOULEVARD DES BULLES","ANNEE":"2009","ETAT":"NEUF","DEDICACE":""},
+{"ID":"72","SERIE":"ALIM LE TANNEUR","ALBUM":"Tirage de T�te 88 / 500","AUTEURS":"AUGUSTIN","EDITEUR":"BOULEVARD DES BULLES","ANNEE":"2007","ETAT":"NEUF","DEDICACE":""},
+{"ID":"73","SERIE":"ALIM LE TANNEUR","ALBUM":"Tirage de T�te H.C 28 / 30","AUTEURS":"AUGUSTIN","EDITEUR":"BOULEVARD DES BULLES","ANNEE":"2006","ETAT":"NEUF","DEDICACE":""},
+{"ID":"74","SERIE":"ALIM LE TANNEUR","ALBUM":"T.4 LA OU BR�LENT LES REGARDS + Coffret","AUTEURS":"AUGUSTIN","EDITEUR":"DELCOURT","ANNEE":"2009","ETAT":"NEUF","DEDICACE":""},
+{"ID":"75","SERIE":"ALIM LE TANNEUR","ALBUM":"T.3 LA TERRE DU PROPHETE P�LE","AUTEURS":"AUGUSTIN","EDITEUR":"DELCOURT","ANNEE":"2007","ETAT":"NEUF","DEDICACE":""},
+{"ID":"76","SERIE":"ALIM LE TANNEUR","ALBUM":"T.2 LE VENT DE L'EXIL + Carnet de Croquis de 8 pages","AUTEURS":"AUGUSTIN","EDITEUR":"DELCOURT","ANNEE":"2006","ETAT":"NEUF","DEDICACE":""},
+{"ID":"77","SERIE":"ALIM LE TANNEUR","ALBUM":"T.1 LE SECRET DES EAUX","AUTEURS":"AUGUSTIN","EDITEUR":"DELCOURT","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"78","SERIE":"ALIM LE TANNEUR","ALBUM":"H.S L'ATELIER DE VIRGINIE AUGUSTIN Tirage de T�te 232 / 275 (D�dicac�)","AUTEURS":"AUGUSTIN","EDITEUR":"R�VES DE BULLES","ANNEE":"2005","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"79","SERIE":"DESERTEURS","ALBUM":"","AUTEURS":"AUTHEMAN","EDITEUR":"DARGAUD","ANNEE":"1983","ETAT":"BE","DEDICACE":""},
+{"ID":"80","SERIE":"DOPPELGANGER S.A","ALBUM":"","AUTEURS":"AVRIL","EDITEUR":"MAGIC STRIP","ANNEE":"1986","ETAT":"NEUF","DEDICACE":""},
+{"ID":"81","SERIE":"APOCALYPSE MANIA","ALBUM":"T.5 COSMOSE + Coffret","AUTEURS":"AYMOND","EDITEUR":"DARGAUD","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"82","SERIE":"APOCALYPSE MANIA","ALBUM":"T.4 TRANCE FUSION","AUTEURS":"AYMOND","EDITEUR":"DARGAUD","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"83","SERIE":"APOCALYPSE MANIA","ALBUM":"T.3 GLOBAL UNDERGROUND (D�dicac�)","AUTEURS":"AYMOND","EDITEUR":"DARGAUD","ANNEE":"2002","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"84","SERIE":"CANAL-CHOC","ALBUM":"T.4 LES CHASSEURS D'INVISIBLE","AUTEURS":"AYMOND","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1992","ETAT":"NEUF","DEDICACE":""},
+{"ID":"85","SERIE":"COEUR DE SANG","ALBUM":"T.3 LE MASQUE DE LOKI","AUTEURS":"BAILLY","EDITEUR":"DELCOURT","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"86","SERIE":"COEUR DE SANG","ALBUM":"T.2 LE BRACELET D'ANGBRODE","AUTEURS":"BAILLY","EDITEUR":"DELCOURT","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"87","SERIE":"COEUR DE SANG","ALBUM":"T.1 LES CHEVALIERS GUIDES (D�dicac�)","AUTEURS":"BAILLY","EDITEUR":"DELCOURT","ANNEE":"1995","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"88","SERIE":"CRYOZONE","ALBUM":"T.1 SUEURS FROIDES (D�dicac� Encre de Couleur)","AUTEURS":"BAJRAM","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"89","SERIE":"CRYOZONE","ALBUM":"T.2 SYNDROME Z (D�dicac� Aquarelle)","AUTEURS":"BAJRAM","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"90","SERIE":"CRYOZONE","ALBUM":"T.2 SYNDROME Z (D�dicac� Encre de couleur)","AUTEURS":"BAJRAM","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"91","SERIE":"ARCHIPEL","ALBUM":"T.1 LE DELUGE","AUTEURS":"BARBAY","EDITEUR":"DELCOURT","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"92","SERIE":"DE SILENCE ET DE SANG","ALBUM":"T.13 LE SYSTEME JURADO","AUTEURS":"BARISON","EDITEUR":"GLENAT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"93","SERIE":"DE SILENCE ET DE SANG","ALBUM":"T.12 LE SCEAU DE CAIN - 2","AUTEURS":"BARISON","EDITEUR":"GLENAT","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"94","SERIE":"DE SILENCE ET DE SANG","ALBUM":"T.11 LE SCEAU DE CAIN - 1","AUTEURS":"BARISON","EDITEUR":"GLENAT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"95","SERIE":"AVENTURES DE PHILIP ET FRANCIS","ALBUM":"T.2 LE PIEGE MACHIAVELIQUE","AUTEURS":"BARRAL","EDITEUR":"DARGAUD","ANNEE":"2011","ETAT":"NEUF","DEDICACE":""},
+{"ID":"96","SERIE":"AVENTURES DE PHILIP ET FRANCIS","ALBUM":"T.1 MENACES SUR L'EMPIRE","AUTEURS":"BARRAL","EDITEUR":"DARGAUD","ANNEE":"2005","ETAT":"NEUF","DEDICACE":""},
+{"ID":"97","SERIE":"BAKER STREET","ALBUM":"T.4 SHERLOCK HOLMES & L'OMBRE DU M","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"98","SERIE":"BAKER STREET","ALBUM":"T.3 SHERLOCK HOLMES ET LES HOMMES DU CAMELLIA","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"99","SERIE":"BAKER STREET","ALBUM":"T.2 SHERLOCK HOLMES ET LE CLUB DES SPORTS DANGEREUX","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"100","SERIE":"AILES DE PLOMB","ALBUM":"T.3 L'AFFAIRE EST DANS LE LAC + Coffret","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"101","SERIE":"BAKER STREET","ALBUM":"T.1 SHERLOCK HOLMES N'A PEUR DE RIEN","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"102","SERIE":"AILES DE PLOMB","ALBUM":"T.2 LE VOL DU BALBUZARD","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"103","SERIE":"AILES DE PLOMB","ALBUM":"T.1 VOL DE NUIT (D�dicac�)","AUTEURS":"BARRAL","EDITEUR":"DELCOURT","ANNEE":"1996","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"104","SERIE":"FANTOME","ALBUM":"T.1 L'OMBRE QUI MARCHE","AUTEURS":"BARRY","EDITEUR":"HACHETTE","ANNEE":"1974","ETAT":"TBE","DEDICACE":""},
+{"ID":"105","SERIE":"FANTOME","ALBUM":"T.2 LE JUSTICIER DE LA JUNGLE","AUTEURS":"BARRY","EDITEUR":"HACHETTE","ANNEE":"1974","ETAT":"TBE","DEDICACE":""},
+{"ID":"106","SERIE":"COURS CAMARADE !","ALBUM":"","AUTEURS":"BARU","EDITEUR":"ALBIN MICHEL","ANNEE":"1988","ETAT":"NEUF","DEDICACE":""},
+{"ID":"107","SERIE":"EVA K.","ALBUM":"T.3 TRAQUENARD","AUTEURS":"BARUTI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"108","SERIE":"EVA K.","ALBUM":"T.2 AMINA","AUTEURS":"BARUTI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1996","ETAT":"NEUF","DEDICACE":""},
+{"ID":"109","SERIE":"EVA K.","ALBUM":"T.1 LES HOMMES DU TRAIN","AUTEURS":"BARUTI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1995","ETAT":"NEUF","DEDICACE":""},
+{"ID":"110","SERIE":"CHRONIQUES ORIGINELLES","ALBUM":"T.1 LES ECOLES D'ARSAMIA","AUTEURS":"BATI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1997","ETAT":"TBE","DEDICACE":""},
+{"ID":"111","SERIE":"DES EXPLOITS ET DES HOMMES","ALBUM":"T.3 L'HOMME DE LA NOUVELLE ANGLETERRE","AUTEURS":"BATTAGLIA","EDITEUR":"MON JOURNAL","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"112","SERIE":"DU GRUNGE EN GENETIQUE","ALBUM":"T.1 REVELATIONS","AUTEURS":"BAYETO","EDITEUR":"ERKO","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"113","SERIE":"FORELL","ALBUM":"T.2 MARCEL L'EMBROUILLE","AUTEURS":"BAZILE","EDITEUR":"DARGAUD","ANNEE":"1998","ETAT":"TBE","DEDICACE":""},
+{"ID":"114","SERIE":"FORELL","ALBUM":"T.1 GELDA","AUTEURS":"BAZILE","EDITEUR":"DARGAUD","ANNEE":"1997","ETAT":"TBE","DEDICACE":""},
+{"ID":"115","SERIE":"BUNKER","ALBUM":"T.2 POINT ZERO","AUTEURS":"BEC","EDITEUR":"DUPUIS","ANNEE":"2008","ETAT":"NEUF","DEDICACE":""},
+{"ID":"116","SERIE":"BUNKER","ALBUM":"T.1 LES FRONTIERES INTERDITES","AUTEURS":"BEC","EDITEUR":"DUPUIS","ANNEE":"2006","ETAT":"NEUF","DEDICACE":""},
+{"ID":"117","SERIE":"CHIMERES","ALBUM":"Tirage Limit� 251 / 350 + Story Board","AUTEURS":"BEHE","EDITEUR":"FOLLE IMAGE","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"118","SERIE":"DECALOGUE","ALBUM":"T.1 LE MANUSCRIT (D�dicac� Couleur)","AUTEURS":"BEHE","EDITEUR":"GLENAT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"119","SERIE":"CHIMERES","ALBUM":"T.1 APHRODITE + Carnet de croquis","AUTEURS":"BEHE","EDITEUR":"VENTS D'OUEST","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"120","SERIE":"COMPAGNONS DU REVE","ALBUM":"T.2 LA FENETRE OUBLIEE","AUTEURS":"BEJA","EDITEUR":"GLENAT","ANNEE":"1991","ETAT":"NEUF","DEDICACE":""},
+{"ID":"121","SERIE":"COMPAGNONS DU REVE","ALBUM":"T.1 L'OMBRE DU MANGOU","AUTEURS":"BEJA","EDITEUR":"GLENAT","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"122","SERIE":"CLEOPATRE","ALBUM":"T.2 PASSEPORT POUR HONG KONG","AUTEURS":"BELTRAN","EDITEUR":"ARTEFACT","ANNEE":"1985","ETAT":"NEUF","DEDICACE":""},
+{"ID":"123","SERIE":"CLEOPATRE","ALBUM":"T.1 LA PYRAMIDE DE CRYSTAL","AUTEURS":"BELTRAN","EDITEUR":"ARTEFACT","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"124","SERIE":"CLOSH","ALBUM":"T.2 CLOSH EN STOCK (D�dicac�)","AUTEURS":"BEN RADIS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1982","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"125","SERIE":"CLOSH","ALBUM":"T.5 LES CLOSH AU FLOP 50","AUTEURS":"BEN RADIS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1989","ETAT":"NEUF","DEDICACE":""},
+{"ID":"126","SERIE":"CLOSH","ALBUM":"T.4 ROCK AROUND THE CLOSH","AUTEURS":"BEN RADIS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"127","SERIE":"CLOSH","ALBUM":"T.3 COCO NIGHT","AUTEURS":"BEN RADIS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1983","ETAT":"NEUF","DEDICACE":""},
+{"ID":"128","SERIE":"CLOSH","ALBUM":"T.1 PARIS SKOUILLE-T-IL ? + disque (D�dicac�)","AUTEURS":"BEN RADIS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1981","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"129","SERIE":"ELMER ET MOI","ALBUM":"T.2 LES REGLES DU JEU","AUTEURS":"BENN","EDITEUR":"GLENAT","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"130","SERIE":"ELMER ET MOI","ALBUM":"T.1 LE CHOIX DES MOYENS (D�dicac�)","AUTEURS":"BENN","EDITEUR":"GLENAT","ANNEE":"1988","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"131","SERIE":"BLAKE ET MORTIMER","ALBUM":"LE VEHICULE DU FUTUR + Ex-libris Publicit� Citr�en","AUTEURS":"BENOIT","EDITEUR":"BLAKE & MORTIMER","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"132","SERIE":"BLAKE ET MORTIMER","ALBUM":"CARS Port-folio 145 / 275","AUTEURS":"BENOIT","EDITEUR":"CHAMPAKA","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"133","SERIE":"BLAKE ET MORTIMER","ALBUM":"PORTRAITS Port-folio 75 / 175","AUTEURS":"BENOIT","EDITEUR":"CHAMPAKA","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"134","SERIE":"FEMMES EN BLANC","ALBUM":"T.4 LES JEUNES FILLES OPERENT","AUTEURS":"BERCOVICI","EDITEUR":"DUPUIS","ANNEE":"1988","ETAT":"NEUF","DEDICACE":""},
+{"ID":"135","SERIE":"FEMMES EN BLANC","ALBUM":"T.3 SUPERPIQUEES","AUTEURS":"BERCOVICI","EDITEUR":"DUPUIS","ANNEE":"1987","ETAT":"NEUF","DEDICACE":""},
+{"ID":"136","SERIE":"BUCK DANNY","ALBUM":"DOSSIER PRESSE de 12 Pages + Ex-libris 36 / 50","AUTEURS":"BERGESE","EDITEUR":"CLEOPAS","ANNEE":"2010","ETAT":"NEUF","DEDICACE":""},
+{"ID":"137","SERIE":"BUCK DANNY","ALBUM":"T.51 MYSTERE EN ANTARCTIQUE Tirage de T�te H.C 18 / 70 + Maquette Avion (D�dicac�)","AUTEURS":"BERGESE","EDITEUR":"CLEOPAS","ANNEE":"2010","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"138","SERIE":"C�UR TAM-TAM","ALBUM":"","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"139","SERIE":"CADET DES SOUPETARD","ALBUM":"T.7 L'�NE EN CULOTTE","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"140","SERIE":"CADET DES SOUPETARD Hors s�rie","ALBUM":"T.2 P'TITES HISTOIRES A L'ECOLE","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"141","SERIE":"CADET DES SOUPETARD","ALBUM":"T.6 SOUS L'AILE DU DIABLE","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"142","SERIE":"CADET DES SOUPETARD","ALBUM":"T.5 LE MOUCHEUR","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"143","SERIE":"CADET DES SOUPETARD Hors s�rie","ALBUM":"T.1 P'TITES HISTOIRES COURTES","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1996","ETAT":"NEUF","DEDICACE":""},
+{"ID":"144","SERIE":"CADET DES SOUPETARD","ALBUM":"T.3 L'�IL DE VITRE","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1995","ETAT":"NEUF","DEDICACE":""},
+{"ID":"145","SERIE":"CADET DES SOUPETARD","ALBUM":"T.4 L'ARBRE AU PIERROT","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1995","ETAT":"NEUF","DEDICACE":""},
+{"ID":"146","SERIE":"CADET DES SOUPETARD","ALBUM":"T.2 LA BOUCHOLEUSE","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"147","SERIE":"CADET DES SOUPETARD","ALBUM":"T.1 LA LOUCHE","AUTEURS":"BERLION","EDITEUR":"DARGAUD","ANNEE":"1993","ETAT":"NEUF","DEDICACE":""},
+{"ID":"148","SERIE":"CRI DU VAMPIRE","ALBUM":"","AUTEURS":"BERNET","EDITEUR":"ALBIN MICHEL","ANNEE":"2001","ETAT":"TBE","DEDICACE":""},
+{"ID":"149","SERIE":"ANDRAX","ALBUM":"","AUTEURS":"BERNET","EDITEUR":"PEPLUM","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"150","SERIE":"ALIENATION","ALBUM":"","AUTEURS":"BEROY","EDITEUR":"DELCOURT","ANNEE":"1989","ETAT":"NEUF","DEDICACE":""},
+{"ID":"151","SERIE":"ENFER DES PELGRAM","ALBUM":"T.2 CELLE QUI JETTE UNE OMBRE","AUTEURS":"BERTAIL","EDITEUR":"DELCOURT","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"152","SERIE":"ENFER DES PELGRAM","ALBUM":"T.1 QUI MARCHE SUR MA TOMBE ? (D�dicac�)","AUTEURS":"BERTAIL","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"153","SERIE":"CRIME QUI EST LE TIEN","ALBUM":"Tirage de T�te 45 / 300","AUTEURS":"BERTHET","EDITEUR":"BRUNO GRAFF","ANNEE":"2015","ETAT":"NEUF","DEDICACE":""},
+{"ID":"154","SERIE":"CHIENS DE PRAIRIE","ALBUM":"T.1 Tirage de T�te 190 / 550","AUTEURS":"BERTHET","EDITEUR":"DELCOURT","ANNEE":"1996","ETAT":"NEUF","DEDICACE":""},
+{"ID":"155","SERIE":"CHIENS DE PRAIRIE","ALBUM":"","AUTEURS":"BERTHET","EDITEUR":"DELCOURT","ANNEE":"1996","ETAT":"NEUF","DEDICACE":""},
+{"ID":"156","SERIE":"COULEUR CAFE","ALBUM":"","AUTEURS":"BERTHET","EDITEUR":"DUPUIS","ANNEE":"1986","ETAT":"TBE","DEDICACE":""},
+{"ID":"157","SERIE":"ANIBAL CINQ","ALBUM":"T.2 CHAIR D'ORCHIDEE POUR LE CYBORG","AUTEURS":"BESS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1992","ETAT":"NEUF","DEDICACE":""},
+{"ID":"158","SERIE":"ANIBAL CINQ","ALBUM":"T.1 DIX FEMMES AVANT DE MOURIR","AUTEURS":"BESS","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"159","SERIE":"ETRANGE NUIT DE MONSIEUR KORB","ALBUM":"","AUTEURS":"BEZIAN","EDITEUR":"MAGIC STRIP","ANNEE":"1982","ETAT":"NEUF","DEDICACE":""},
+{"ID":"160","SERIE":"GALFALEK","ALBUM":"T.4 LE CREPUSCULE DES ROIS","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2005","ETAT":"TBE","DEDICACE":""},
+{"ID":"161","SERIE":"GALFALEK","ALBUM":"T.3 LES \"HAUTS MURS\"","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2002","ETAT":"TBE","DEDICACE":""},
+{"ID":"162","SERIE":"GALFALEK","ALBUM":"T.2 LE CERCLE + 8 pages de croquis","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2001","ETAT":"TBE","DEDICACE":""},
+{"ID":"163","SERIE":"GALFALEK","ALBUM":"T.1 LE GANT DE L'OUBLI","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1999","ETAT":"TBE","DEDICACE":""},
+{"ID":"164","SERIE":"GALFALEK","ALBUM":"Collection 2B + Crayonn�s","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2005","ETAT":"NEUF","DEDICACE":""},
+{"ID":"165","SERIE":"GALFALEK","ALBUM":"Collection 2B + Crayonn�s (D�dicac�)","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2005","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"166","SERIE":"ARGYLL DE MARACANDE","ALBUM":"T.2 LA TRAQUE","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"167","SERIE":"ARGYLL DE MARACANDE","ALBUM":"T.1 L'HERITIER DU TRONE","AUTEURS":"BIANCARELLI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"168","SERIE":"CULOTTES COURTES ET SOUTANES NOIRES","ALBUM":"","AUTEURS":"BIARD","EDITEUR":"ALBIN MICHEL","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"169","SERIE":"ANIMAL'Z","ALBUM":"+ Coffret Canal BD + 3 Planches de 4 Ex-Libris + D�pliant \"en accord�on\"","AUTEURS":"BILAL","EDITEUR":"CANAL BD","ANNEE":"2009","ETAT":"NEUF","DEDICACE":""},
+{"ID":"170","SERIE":"BUG","ALBUM":"T.1 Couverture FNAC","AUTEURS":"BILAL","EDITEUR":"CASTERMAN","ANNEE":"2017","ETAT":"NEUF","DEDICACE":""},
+{"ID":"171","SERIE":"COEURS SANGLANTS ET AUTRES FAITS DIVERS","ALBUM":"","AUTEURS":"BILAL","EDITEUR":"DARGAUD","ANNEE":"1988","ETAT":"NEUF","DEDICACE":""},
+{"ID":"172","SERIE":"CROISIERE DES OUBLIES","ALBUM":"","AUTEURS":"BILAL","EDITEUR":"DARGAUD","ANNEE":"1975","ETAT":"NEUF","DEDICACE":""},
+{"ID":"173","SERIE":"CRUX UNIVERSALIS","ALBUM":"(Sign�)","AUTEURS":"BILAL","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1982","ETAT":"TBE","DEDICACE":""},
+{"ID":"174","SERIE":"EXTERMINATEUR 17","ALBUM":"(D�dicac�)","AUTEURS":"BILAL","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1979","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"175","SERIE":"ALLO-NE QUITTEZ PAS !","ALBUM":"","AUTEURS":"BILLON","EDITEUR":"DARGAUD","ANNEE":"1982","ETAT":"TBE","DEDICACE":""},
+{"ID":"176","SERIE":"DICK SWEENIE","ALBUM":"","AUTEURS":"BLAIR","EDITEUR":"PAQUET","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"177","SERIE":"COURTS-METRAGES","ALBUM":"","AUTEURS":"BLANC-DUMONT","EDITEUR":"DARGAUD","ANNEE":"1985","ETAT":"TBE","DEDICACE":""},
+{"ID":"178","SERIE":"COLBY","ALBUM":"T.3 BOMBARDIER POUR MEXICO","AUTEURS":"BLANC-DUMONT","EDITEUR":"DARGAUD","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"179","SERIE":"COLBY","ALBUM":"T.2 LE SOLEIL VA MOURIR DEUX FOIS","AUTEURS":"BLANC-DUMONT","EDITEUR":"DARGAUD","ANNEE":"1992","ETAT":"NEUF","DEDICACE":""},
+{"ID":"180","SERIE":"COLBY","ALBUM":"T.1 ALTITUDE MOINS TRENTE","AUTEURS":"BLANC-DUMONT","EDITEUR":"DARGAUD","ANNEE":"1991","ETAT":"NEUF","DEDICACE":""},
+{"ID":"181","SERIE":"DONA","ALBUM":"T.1 L'OISEAU DE NUIT + Carnet graphique de 8 pages","AUTEURS":"BODARD","EDITEUR":"CLAIR DE LUNE","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"182","SERIE":"DONA","ALBUM":"T.1 L'OISEAU DE NUIT + Carnet graphique de 8 pages (D�dicac�)","AUTEURS":"BODARD","EDITEUR":"CLAIR DE LUNE","ANNEE":"2004","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"183","SERIE":"CELESTIN SPECULOOS","ALBUM":"T.2 MAI 68","AUTEURS":"BODART","EDITEUR":"GLENAT","ANNEE":"1993","ETAT":"NEUF","DEDICACE":""},
+{"ID":"184","SERIE":"BODE","ALBUM":"Collection 30 / 40","AUTEURS":"BODE","EDITEUR":"FUTUROPOLIS","ANNEE":"1975","ETAT":"BE","DEDICACE":""},
+{"ID":"185","SERIE":"ECHEC ET AUDIMAT","ALBUM":"","AUTEURS":"BODET","EDITEUR":"FUTUROPOLIS","ANNEE":"1988","ETAT":"TBE","DEDICACE":""},
+{"ID":"186","SERIE":"BLAIREAU","ALBUM":"T.1 BRENDA","AUTEURS":"BO�M","EDITEUR":"DARGAUD","ANNEE":"1990","ETAT":"TBE","DEDICACE":""},
+{"ID":"187","SERIE":"BLAIREAU","ALBUM":"T.2 MARIE-LAURE","AUTEURS":"BO�M","EDITEUR":"DARGAUD","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"188","SERIE":"CHARLOTTE IMPERATRICE","ALBUM":"T,1 LA PRINCESSE ET L'ARCHIDUC Tirage de T�te sous Embo�tage 230 / 350","AUTEURS":"BONHOMME","EDITEUR":"BLACK & WHITE","ANNEE":"2018","ETAT":"NEUF","DEDICACE":""},
+{"ID":"189","SERIE":"FOG","ALBUM":"T.8 AU NOM DU FILS","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2007","ETAT":"NEUF","DEDICACE":""},
+{"ID":"190","SERIE":"FOG","ALBUM":"T.7 WINTERTIME","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2006","ETAT":"NEUF","DEDICACE":""},
+{"ID":"191","SERIE":"FOG","ALBUM":"T.6 REMEMBER","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"192","SERIE":"FOG","ALBUM":"T.5 LA MEMOIRE VOLEE (Sign�)","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"193","SERIE":"FOG","ALBUM":"T.4 LES SABLES DU TEMPS","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"194","SERIE":"FOG","ALBUM":"T.3 LE MANGEUR D'AMES (D�dicac�)","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2001","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"195","SERIE":"FOG","ALBUM":"T.2 LE DESTIN DE JANE","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"196","SERIE":"FOG","ALBUM":"T.1 LE TUMULUS (D�dicac�)","AUTEURS":"BONIN","EDITEUR":"CASTERMAN","ANNEE":"1999","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"197","SERIE":"CHAMBRE OBSCURE","ALBUM":"T.2 + Coffret + Ex-Libris 287 / 500 (Dessin original sur feuille)","AUTEURS":"BONIN","EDITEUR":"DARGAUD","ANNEE":"2011","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"198","SERIE":"CHAMBRE OBSCURE","ALBUM":"T.1 + Ex-Libris 820 / 1 000 (Dessin original sur feuille)","AUTEURS":"BONIN","EDITEUR":"DARGAUD","ANNEE":"2010","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"199","SERIE":"DELICATESSE","ALBUM":"","AUTEURS":"BONIN","EDITEUR":"FUTUROPOLIS","ANNEE":"2016","ETAT":"NEUF","DEDICACE":""},
+{"ID":"200","SERIE":"ATTILA MON AMOUR","ALBUM":"T.2 LES PORTES DE FER","AUTEURS":"BONNET","EDITEUR":"GLENAT","ANNEE":"1999","ETAT":"TBE","DEDICACE":""},
+{"ID":"201","SERIE":"ATTILA MON AMOUR","ALBUM":"T.5 TERRES BRULEES (D�dicac�)","AUTEURS":"BONNET","EDITEUR":"GLENAT","ANNEE":"2002","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"202","SERIE":"ATTILA MON AMOUR","ALBUM":"T.1 LUPA, LA LOUVE (D�dicac�)","AUTEURS":"BONNET","EDITEUR":"GLENAT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"203","SERIE":"CATHARES","ALBUM":"T.2 CHASSE A L'HOMME (D�dicac� + Aquarelle)","AUTEURS":"BONO","EDITEUR":"GLENAT","ANNEE":"2012","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"204","SERIE":"CATHARES","ALBUM":"T.1 LE SANG DES MARTYRS","AUTEURS":"BONO","EDITEUR":"GLENAT","ANNEE":"2011","ETAT":"NEUF","DEDICACE":""},
+{"ID":"205","SERIE":"CREATURE","ALBUM":"T.1 CHIMERES","AUTEURS":"BORIS","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2003","ETAT":"TBE","DEDICACE":""},
+{"ID":"206","SERIE":"DOG MENGO","ALBUM":"T,1 JAGUAR + 8 pages de carnet de croquis","AUTEURS":"BOSSCHAERT","EDITEUR":"CASTERMAN","ANNEE":"2005","ETAT":"NEUF","DEDICACE":""},
+{"ID":"207","SERIE":"EMPEREUR DU DERNIER JOUR","ALBUM":"T.2 JOACHIM","AUTEURS":"BOUBE","EDITEUR":"GLENAT","ANNEE":"1995","ETAT":"NEUF","DEDICACE":""},
+{"ID":"208","SERIE":"EMPEREUR DU DERNIER JOUR","ALBUM":"T.1 LE PRINCE VAUTOUR","AUTEURS":"BOUBE","EDITEUR":"GLENAT","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"209","SERIE":"EPEE DE CRISTAL","ALBUM":"T.6 LE CERCLE DU TEMPS","AUTEURS":"BOUBE","EDITEUR":"VENTS D'OUEST","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"210","SERIE":"CHRONIQUES DE SAINT-CYPRIEN","ALBUM":"T.2 UNE VALISE POUR JUPITER","AUTEURS":"BOUCHARD","EDITEUR":"GLENAT","ANNEE":"1982","ETAT":"TBE","DEDICACE":""},
+{"ID":"211","SERIE":"CHRONIQUES DE SAINT-CYPRIEN","ALBUM":"T.1 LA CHAPELLE DU DEMON","AUTEURS":"BOUCHARD","EDITEUR":"GLENAT","ANNEE":"1981","ETAT":"TBE","DEDICACE":""},
+{"ID":"212","SERIE":"BOUNCER","ALBUM":"T.2 LA PITIE DES BOURREAUX + Coffret + Carnet graphique","AUTEURS":"BOUCQ","EDITEUR":"CANAL BD","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"213","SERIE":"DERISOIRE EFFERVESCENCE DES COMPRIMES","ALBUM":"","AUTEURS":"BOUCQ","EDITEUR":"CASTERMAN","ANNEE":"1991","ETAT":"TBE","DEDICACE":""},
+{"ID":"214","SERIE":"BOUCHE DU DIABLE","ALBUM":"","AUTEURS":"BOUCQ","EDITEUR":"CASTERMAN","ANNEE":"1990","ETAT":"TBE","DEDICACE":""},
+{"ID":"215","SERIE":"FEMME DU MAGICIEN","ALBUM":"","AUTEURS":"BOUCQ","EDITEUR":"CASTERMAN","ANNEE":"1986","ETAT":"TBE","DEDICACE":""},
+{"ID":"216","SERIE":"FACE DE LUNE","ALBUM":"T.2 LA PIERRE DE FAITE","AUTEURS":"BOUCQ","EDITEUR":"CASTERMAN","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"217","SERIE":"FACE DE LUNE","ALBUM":"T.1 LA CATHEDRALE INVISIBLE","AUTEURS":"BOUCQ","EDITEUR":"CASTERMAN","ANNEE":"1992","ETAT":"NEUF","DEDICACE":""},
+{"ID":"218","SERIE":"BOUNCER","ALBUM":"T.9 AND BACK + Coffret + Ex-Libris","AUTEURS":"BOUCQ","EDITEUR":"GLENAT","ANNEE":"2013","ETAT":"NEUF","DEDICACE":""},
+{"ID":"219","SERIE":"BOUNCER","ALBUM":"T.7 C�UR DOUBLE + Coffret","AUTEURS":"BOUCQ","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"2009","ETAT":"NEUF","DEDICACE":""},
+{"ID":"220","SERIE":"BOUNCER","ALBUM":"T.6 LA VEUVE NOIRE","AUTEURS":"BOUCQ","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"2008","ETAT":"NEUF","DEDICACE":""},
+{"ID":"221","SERIE":"BOUNCER","ALBUM":"T.5 LA PROIE DES LOUVES Tirage Limit� N & B 2 000 ex","AUTEURS":"BOUCQ","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"2006","ETAT":"NEUF","DEDICACE":""},
+{"ID":"222","SERIE":"BOUNCER","ALBUM":"T.4 LA VENGEANCE DU MANCHOT","AUTEURS":"BOUCQ","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"2005","ETAT":"NEUF","DEDICACE":""},
+{"ID":"223","SERIE":"BOUNCER","ALBUM":"T.3 LA JUSTICE DES SERPENTS","AUTEURS":"BOUCQ","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"2003","ETAT":"NEUF","DEDICACE":""},
+{"ID":"224","SERIE":"BOUNCER","ALBUM":"T.1 UN DIAMANT POUR L'AU-DELA (D�dicac�)","AUTEURS":"BOUCQ","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"2001","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"225","SERIE":"BOUNCER","ALBUM":"Tirage de T�te 16 / 333 + Triptyque 16 / 150","AUTEURS":"BOUCQ","EDITEUR":"ZABOUNGA","ANNEE":"2014","ETAT":"NEUF","DEDICACE":""},
+{"ID":"226","SERIE":"BOUNCER","ALBUM":"T.8 TO HELL Tirage de T�te 41 / 265 + Ex-Lbris 41 / 100 (D�dicac�)","AUTEURS":"BOUCQ","EDITEUR":"ZABOUNGA","ANNEE":"2012","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"227","SERIE":"CYCLE DE CYANN","ALBUM":"LA CLE DES CONFINS (Carnet graphique) + Coffret Canal BD","AUTEURS":"BOURGEON","EDITEUR":"CASTERMAN","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"228","SERIE":"CYCLE DE CYANN","ALBUM":"T.2 SIX SAISONS SUR ILO","AUTEURS":"BOURGEON","EDITEUR":"CASTERMAN","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"229","SERIE":"CYCLE DE CYANN","ALBUM":"T.1 LA SOURCE ET L'ONDE","AUTEURS":"BOURGEON","EDITEUR":"CASTERMAN","ANNEE":"1993","ETAT":"NEUF","DEDICACE":""},
+{"ID":"230","SERIE":"COMPAGNONS DU CREPUSCULE","ALBUM":"T.3 LE DERNIER CHANT DES MALATERRE","AUTEURS":"BOURGEON","EDITEUR":"CASTERMAN","ANNEE":"1990","ETAT":"NEUF","DEDICACE":""},
+{"ID":"231","SERIE":"COMPAGNONS DU CREPUSCULE","ALBUM":"T.2 LES YEUX D'ETAIN DE LA VILLE GLAUQUE","AUTEURS":"BOURGEON","EDITEUR":"CASTERMAN","ANNEE":"1986","ETAT":"NEUF","DEDICACE":""},
+{"ID":"232","SERIE":"COMPAGNONS DU CREPUSCULE","ALBUM":"T.1 LE SORTILEGE DU BOIS DES BRUMES","AUTEURS":"BOURGEON","EDITEUR":"CASTERMAN","ANNEE":"1984","ETAT":"NEUF","DEDICACE":""},
+{"ID":"233","SERIE":"CYCLE DE CYANN","ALBUM":"T.4 LES COULOIRS DE MARCADE","AUTEURS":"BOURGEON","EDITEUR":"VENTS D'OUEST","ANNEE":"2007","ETAT":"NEUF","DEDICACE":""},
+{"ID":"234","SERIE":"CYCLE DE CYANN","ALBUM":"T.3 A�E�A D'ALDAAL","AUTEURS":"BOURGEON","EDITEUR":"VENTS D'OUEST","ANNEE":"2005","ETAT":"NEUF","DEDICACE":""},
+{"ID":"235","SERIE":"FRANK LINCOLN","ALBUM":"T.1 LA LOI DU GRAND NORD","AUTEURS":"BOURGNE","EDITEUR":"GLENAT","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"236","SERIE":"ALIAS","ALBUM":"","AUTEURS":"BRANDOLI","EDITEUR":"GLENAT","ANNEE":"1989","ETAT":"TBE","DEDICACE":""},
+{"ID":"237","SERIE":"ALVAR MAYOR","ALBUM":"","AUTEURS":"BRECCIA","EDITEUR":"DARGAUD","ANNEE":"1983","ETAT":"TBE","DEDICACE":""},
+{"ID":"238","SERIE":"AGUIRRE","ALBUM":"","AUTEURS":"BRECCIA","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1991","ETAT":"TBE","DEDICACE":""},
+{"ID":"239","SERIE":"DOCTEUR FU-MANCHU","ALBUM":"T.1 LE MAITRE DU MONDE","AUTEURS":"BRESSY","EDITEUR":"HACHETTE","ANNEE":"1975","ETAT":"TBE","DEDICACE":""},
+{"ID":"240","SERIE":"ARCANE,LE GRAND SORCIER","ALBUM":"","AUTEURS":"BROCAL REMOHI","EDITEUR":"DARGAUD","ANNEE":"1978","ETAT":"TBE","DEDICACE":""},
+{"ID":"241","SERIE":"CLANDESTINO","ALBUM":"T.1 NO�L AU PARADIS Tirage Limit� Toil� n� 22 562 / 1 200 ex + 8 pages Dossier graphique + Ex-Libris","AUTEURS":"BUFI","EDITEUR":"CANAL BD","ANNEE":"2013","ETAT":"NEUF","DEDICACE":""},
+{"ID":"242","SERIE":"COLEMAN WALLACE","ALBUM":"T.1 LA PIERRE D'ONYX + 8 pages d'illustrations et d'esquisses","AUTEURS":"BURTON","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2000","ETAT":"TBE","DEDICACE":""},
+{"ID":"243","SERIE":"COLEMAN WALLACE","ALBUM":"T.1 LA PIERRE D'ONYX + 8 pages d'illustrations et d'esquisses (D�dicac� Couleur)","AUTEURS":"BURTON","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2000","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"244","SERIE":"COLEMAN WALLACE","ALBUM":"T.1 LA PIERRE D'ONYX + 8 pages d'illustrations et d'esquisses (D�dicac�)","AUTEURS":"BURTON","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2000","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"245","SERIE":"COLEMAN WALLACE","ALBUM":"T.3 EDEN PRIME","AUTEURS":"BURTON","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"246","SERIE":"COLEMAN WALLACE","ALBUM":"T.2 LE SIEGE DE ZANADAR","AUTEURS":"BURTON","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"247","SERIE":"AGNONE","ALBUM":"","AUTEURS":"BUZZELLI","EDITEUR":"DARGAUD","ANNEE":"1980","ETAT":"TBE","DEDICACE":""},
+{"ID":"248","SERIE":"DEMONS","ALBUM":"","AUTEURS":"BUZZELLI","EDITEUR":"FROMAGE","ANNEE":"1980","ETAT":"TBE","DEDICACE":""},
+{"ID":"249","SERIE":"ALANDOR","ALBUM":"T.2 L'ANGE CARNIVORE","AUTEURS":"CADELO","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1986","ETAT":"TBE","DEDICACE":""},
+{"ID":"250","SERIE":"ALANDOR","ALBUM":"T.1 LE DIEU JALOUX","AUTEURS":"CADELO","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1984","ETAT":"TBE","DEDICACE":""},
+{"ID":"251","SERIE":"AULGE","ALBUM":"","AUTEURS":"CAILLON","EDITEUR":"ARTEFACT","ANNEE":"1979","ETAT":"NEUF","DEDICACE":""},
+{"ID":"252","SERIE":"COQUIN","ALBUM":"T.2 LES MEMOIRES DE COQUIN","AUTEURS":"CALVO","EDITEUR":"FUTUROPOLIS","ANNEE":"1979","ETAT":"TBE","DEDICACE":""},
+{"ID":"253","SERIE":"CHEVALIER DU FEU","ALBUM":"N / B","AUTEURS":"CALVO","EDITEUR":"FUTUROPOLIS","ANNEE":"1976","ETAT":"TBE","DEDICACE":""},
+{"ID":"254","SERIE":"BETE EST MORTE","ALBUM":"T.1 QUAND LA BETE EST DECHAINEE","AUTEURS":"CALVO","EDITEUR":"G.P","ANNEE":"1945","ETAT":"TBE","DEDICACE":""},
+{"ID":"255","SERIE":"BETE EST MORTE","ALBUM":"T.2 QUAND LA BETE EST TERRASSEE","AUTEURS":"CALVO","EDITEUR":"G.P","ANNEE":"1945","ETAT":"TBE","DEDICACE":""},
+{"ID":"256","SERIE":"COQUIN","ALBUM":"T.2 COQUIN ET SES AMIS DU CIRQUE","AUTEURS":"CALVO","EDITEUR":"GAUTIER-LANGUEREAU","ANNEE":"1954","ETAT":"TBE","DEDICACE":""},
+{"ID":"257","SERIE":"CHEVALIER DU FEU","ALBUM":"Couleur","AUTEURS":"CALVO","EDITEUR":"GIRAUD-RIVOIRE","ANNEE":"1948","ETAT":"TBE","DEDICACE":""},
+{"ID":"258","SERIE":"CRICRI","ALBUM":"T.1 CRICRI CONTRE MATOU","AUTEURS":"CALVO","EDITEUR":"MIREILLE","ANNEE":"1957","ETAT":"BE","DEDICACE":""},
+{"ID":"259","SERIE":"FROM HELL","ALBUM":"","AUTEURS":"CAMPBELL","EDITEUR":"DELCOURT","ANNEE":"2000","ETAT":"TBE","DEDICACE":""},
+{"ID":"260","SERIE":"ARCANES","ALBUM":"T.2 LA DAME DE PRAGUE + Dossier confidentiel (cartes)","AUTEURS":"CAMPOY & PIGNAULT","EDITEUR":"DELCOURT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"261","SERIE":"ARCANES","ALBUM":"T.1 LE BARON FANTOME","AUTEURS":"CAMPOY & PIGNAULT","EDITEUR":"DELCOURT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"262","SERIE":"ARENES","ALBUM":"","AUTEURS":"CANAL","EDITEUR":"MAGIC STRIP","ANNEE":"1986","ETAT":"NEUF","DEDICACE":""},
+{"ID":"263","SERIE":"DICKIE DARE","ALBUM":"T.1 (1933-1934)","AUTEURS":"CANIFF","EDITEUR":"FUTUROPOLIS","ANNEE":"1983","ETAT":"NEUF","DEDICACE":""},
+{"ID":"264","SERIE":"BOURREAU","ALBUM":"T.1 JUSTICE DIVINE ? (D�dicac�)","AUTEURS":"CARETTE","EDITEUR":"DELCOURT","ANNEE":"2016","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"265","SERIE":"DIABLES BLEUS","ALBUM":"Tirage Limit� 397 / 1 000 + Ex-libris 129 / 250 (D�dicac�)","AUTEURS":"CARIN","EDITEUR":"POINT IMAGE","ANNEE":"1997","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"266","SERIE":"CHARLIE PARKER","ALBUM":"","AUTEURS":"CASSARO","EDITEUR":"DESIBA","ANNEE":"1980","ETAT":"TBE","DEDICACE":""},
+{"ID":"267","SERIE":"BOUFFE-DOUBLON","ALBUM":"T.3 A MALIN, MALIN ET DEMI","AUTEURS":"CASSINI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"268","SERIE":"BOUFFE-DOUBLON","ALBUM":"T.2 A L'OUEST D'EDEN","AUTEURS":"CASSINI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"2000","ETAT":"NEUF","DEDICACE":""},
+{"ID":"269","SERIE":"BOUFFE-DOUBLON","ALBUM":"T.1 LE TRESOR DE LA MADRE DE DIOS","AUTEURS":"CASSINI","EDITEUR":"SOLEIL PRODUCTION","ANNEE":"1999","ETAT":"NEUF","DEDICACE":""},
+{"ID":"270","SERIE":"CONTES DES HAUTES TERRES","ALBUM":"T.1 LA LONGUE NUIT","AUTEURS":"CASTAZA","EDITEUR":"DELCOURT","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"271","SERIE":"ASTER","ALBUM":"T.2 ARYAMA","AUTEURS":"CAUUET","EDITEUR":"DELCOURT","ANNEE":"2004","ETAT":"TBE","DEDICACE":""},
+{"ID":"272","SERIE":"ASTER","ALBUM":"T.2 ARYAMA","AUTEURS":"CAUUET","EDITEUR":"DELCOURT","ANNEE":"2004","ETAT":"NEUF","DEDICACE":""},
+{"ID":"273","SERIE":"ASTER","ALBUM":"T.1 OUPANISHADS (D�dicace Aquarelle)","AUTEURS":"CAUUET","EDITEUR":"DELCOURT","ANNEE":"2003","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"274","SERIE":"CHRONIQUES DE LA TERRE FIXE","ALBUM":"T.1 NOCTURNES (D�dicac�)","AUTEURS":"CAZA","EDITEUR":"DELCOURT","ANNEE":"1999","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"275","SERIE":"CAPITAINE FANTOME","ALBUM":"T.1 CAPITAINE FANTOME","AUTEURS":"CAZANAVE","EDITEUR":"GLENAT","ANNEE":"1976","ETAT":"TBE","DEDICACE":""},
+{"ID":"276","SERIE":"CORPS DIPLOMATIQUE","ALBUM":"T.1 CORPS DIPLOMATIQUE","AUTEURS":"CEPPI","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1991","ETAT":"NEUF","DEDICACE":""},
+{"ID":"277","SERIE":"CORPS DIPLOMATIQUE","ALBUM":"T.2 LA FEMME PIEGEE","AUTEURS":"CEPPI","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1991","ETAT":"NEUF","DEDICACE":""},
+{"ID":"278","SERIE":"CROCO AND CO.","ALBUM":"","AUTEURS":"CEPPI","EDITEUR":"L' ESSAI","ANNEE":"1986","ETAT":"TBE","DEDICACE":""},
+{"ID":"279","SERIE":"DERNIERE PROPHETIE","ALBUM":"T.1 VOYAGE AUX ENFERS","AUTEURS":"CHAILLET","EDITEUR":"GLENAT","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"280","SERIE":"DERNIERE PROPHETIE","ALBUM":"T.1 VOYAGE AUX ENFERS Tirage Limit� 3 000 ex + esquisses (Sign�) (D�dicac�)","AUTEURS":"CHAILLET","EDITEUR":"GLENAT","ANNEE":"2002","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"281","SERIE":"FREDDY LOMBARD","ALBUM":"Tirage de T�te sous embo�tage H.C 1 / 20","AUTEURS":"CHALAND","EDITEUR":"HENNEBELLE","ANNEE":"2012","ETAT":"NEUF","DEDICACE":""},
+{"ID":"282","SERIE":"FREDDY LOMBARD","ALBUM":"Tirage de T�te sous embo�tage H.C 1 / 20","AUTEURS":"CHALAND","EDITEUR":"HENNEBELLE","ANNEE":"2011","ETAT":"NEUF","DEDICACE":""},
+{"ID":"283","SERIE":"FREDDY LOMBARD","ALBUM":"T.5 F.52","AUTEURS":"CHALAND","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1989","ETAT":"TBE","DEDICACE":""},
+{"ID":"284","SERIE":"FREDDY LOMBARD","ALBUM":"T.2 LE CIMETIERE DES ELEPHANTS","AUTEURS":"CHALAND","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1984","ETAT":"TBE","DEDICACE":""},
+{"ID":"285","SERIE":"BOB FISH","ALBUM":"Tirage de T�te non gondol� 925 / 999","AUTEURS":"CHALAND","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1981","ETAT":"TBE","DEDICACE":""},
+{"ID":"286","SERIE":"FREDDY LOMBARD","ALBUM":"T.4 VACANCES A BUDAPEST","AUTEURS":"CHALAND","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1988","ETAT":"NEUF","DEDICACE":""},
+{"ID":"287","SERIE":"FREDDY LOMBARD","ALBUM":"T.3 LA COMETE DE CARTHAGE","AUTEURS":"CHALAND","EDITEUR":"HUMANO�DES ASSOCIES","ANNEE":"1986","ETAT":"NEUF","DEDICACE":""},
+{"ID":"288","SERIE":"FREDDY LOMBARD","ALBUM":"T.1 LE TESTAMENT DE GODEFFROID DE BOUILLON","AUTEURS":"CHALAND","EDITEUR":"MAGIC STRIP","ANNEE":"1981","ETAT":"TBE","DEDICACE":""},
+{"ID":"289","SERIE":"FOX","ALBUM":"Tirage de T�te 274 / 300 (D�dicac� Couleur)","AUTEURS":"CHARLES","EDITEUR":"BD MUST","ANNEE":"1998","ETAT":"NEUF","DEDICACE":"Oui"},
+{"ID":"290","SERIE":"BAL DU RAT MORT","ALBUM":"(D�dicac� Aquarelle)","AUTEURS":"CHARLES","EDITEUR":"DELIGNE","ANNEE":"1980","ETAT":"TBE","DEDICACE":"Oui"},
+{"ID":"291","SERIE":"FOX","ALBUM":"Carnet de croquis 112 / 225","AUTEURS":"CHARLES","EDITEUR":"ESPACE BD","ANNEE":"2002","ETAT":"NEUF","DEDICACE":""},
+{"ID":"292","SERIE":"DECALOGUE","ALBUM":"T.3 LE METEORE","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"293","SERIE":"DECALOGUE","ALBUM":"T.3 LE METEORE","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"294","SERIE":"ESQUISSES ET TOILES","ALBUM":"","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"2001","ETAT":"NEUF","DEDICACE":""},
+{"ID":"295","SERIE":"FOX","ALBUM":"T.7 LOS ALAMOS, TRINITY","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"1998","ETAT":"NEUF","DEDICACE":""},
+{"ID":"296","SERIE":"FOX","ALBUM":"T.6 JOURS CORBEAUX","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"1997","ETAT":"NEUF","DEDICACE":""},
+{"ID":"297","SERIE":"FOX","ALBUM":"T.5 LE CLUB DES MOMIES","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"1996","ETAT":"NEUF","DEDICACE":""},
+{"ID":"298","SERIE":"FOX","ALBUM":"T.4 LE DIEU ROUGE","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"1994","ETAT":"NEUF","DEDICACE":""},
+{"ID":"299","SERIE":"FOX","ALBUM":"T.3 RAIS EL DJEMAT (D�dicac� Aquarelle)","AUTEURS":"CHARLES","EDITEUR":"GLENAT","ANNEE":"1993","ETAT":"NEUF","DEDICACE":"Oui"}
+],
+profile: {
+	"name": "typicode"
+	}
+}
