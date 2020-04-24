@@ -9,7 +9,7 @@ function App() {
 
       <Router>
 
-        <Route path="/Login" component={Login}></Route>
+        <Route path="/" component={Login}></Route>
 
       </Router>
     </div>
