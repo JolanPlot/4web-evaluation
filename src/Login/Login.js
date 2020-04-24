@@ -30,7 +30,7 @@ const Login = ({
                         placeholder="Password"
                     />
                     <h3 className="login_error " style={StyleLoginError}>
-                        Les identifiants que vous avez saisis sont incorrects.
+                        Identifiants incorrects.
           </h3>
                     <button className="login_button">Login</button>
                 </form>

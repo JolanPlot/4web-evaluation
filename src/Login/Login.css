@@ -51,7 +51,7 @@ form input.login_password {
 }
 
 .login_error {
-    color: rgb(128, 30, 30);
+    color: red;
     font-weight: bold;
     visibility: hidden;
     text-align: center;
