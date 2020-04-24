@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import ".Data.js";
+import "./Data.css";
+import Array from "./Data"
 
 
 const EnchanceData = props => {
