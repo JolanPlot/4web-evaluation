@@ -29,7 +29,7 @@ const Login = ({
                         placeholder="Password"
                     />
                     <h3 className="login_error " style={hideErrorMessage}>
-                        Bad credentials
+                        Les identifiants que vous avez saisis sont incorrects.
           </h3>
                     <button className="login_button">Login</button>
                 </form>
