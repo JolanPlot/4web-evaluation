@@ -4,8 +4,8 @@ import "./Login.css";
 const Login = ({
     email,
     setEmail,
-    password,
-    setPassword,
+    pwd,
+    setPwd,
     formHandler,
     StyleLoginError
 }) => (
@@ -22,8 +22,8 @@ const Login = ({
                     />
                     <label htmlFor="password">Password</label>
                     <input
-                        value={password}
-                        onChange={e => setPassword(e.target.value)}
+                        value={pwd}
+                        onChange={e => setPwd(e.target.value)}
                         type="password"
                         className="login_password"
                         placeholder="Password"

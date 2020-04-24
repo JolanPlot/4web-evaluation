@@ -12,6 +12,7 @@ const EnhanceLogin = props => {
     const history = useHistory();
 
     const formHandler = e => {
+        e.preventDefault();
         if (email === "contact@web.fr" && pwd === "azerty") {
             history.push("/data");
         } else {
@@ -22,8 +23,7 @@ const EnhanceLogin = props => {
     };
 
     return (
-        <Login
-            {...props}
+        <Login {...props}
             email={email}
             setEmail={setEmail}
             pwd={pwd}

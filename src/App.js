@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Login from '.Login/Login.container.js'
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Login from "./Login/Login.container"
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -9,8 +9,8 @@ function App() {
       <header className="App-header">
 
         <Router>
-          <Link to="/login"> login </Link>
-          <Route path="/login" component={Login} />
+
+          <Route path="/Login" component={Login}></Route>
 
         </Router>
 
