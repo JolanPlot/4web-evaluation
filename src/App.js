@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Login from ".Login/Login.container.js";
-import { BrowserRouter as Router, route, Link } from "react-router-dom";
+import Login from '.Login/Login.container.js'
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function App() {
   return (

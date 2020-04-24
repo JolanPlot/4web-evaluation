@@ -7,7 +7,7 @@ const Login = ({
     password,
     setPassword,
     formHandler,
-    hideErrorMessage
+    StyleLoginError
 }) => (
         <>
             <div className="login">
@@ -28,7 +28,7 @@ const Login = ({
                         className="login_password"
                         placeholder="Password"
                     />
-                    <h3 className="login_error " style={hideErrorMessage}>
+                    <h3 className="login_error " style={StyleLoginError}>
                         Les identifiants que vous avez saisis sont incorrects.
           </h3>
                     <button className="login_button">Login</button>
