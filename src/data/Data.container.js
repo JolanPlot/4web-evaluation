@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./Data.css";
 import Array from "./Data"
+import axios from 'axios'
 
 const EnchanceData = props => {
     const [itemspage, setitemsPage] = useState(10);
