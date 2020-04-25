@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Data.css";
 import Array from "./Data"
 import axios from 'axios'
+import Pagination from './Pagination'
 
 const EnchanceData = props => {
     const [posts, setPosts] = useState([]);
