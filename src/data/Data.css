@@ -1,0 +1,13 @@
+table{
+    border-style: solid;
+    text-align: center;
+    
+}
+table th{
+    border-style: solid;
+    text-align: center;
+}
+table td{
+    border-style: solid;
+    border-width: 1px;
+}

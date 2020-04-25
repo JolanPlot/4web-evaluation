@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Data.css";
-import Array from "./Data"
+import Posts from "./Data"
 import axios from 'axios'
 import Pagination from './Pagination'
 
@@ -21,10 +21,12 @@ const EnchanceData = props => {
         fetchPosts();
     }, []);
 
+
     const indexOfLastPost = currentPage * postsPerPage;
     const indexOfFirstPost = indexOfLastPost - postsPerPage;
     const currentPosts = posts.slice(indexOfFirstPost, indexOfLastPost);
 
+    const paginate = pageNumber => setCurrentPage(pageNumber);
     return (
         <div className='container mt-5'>
             <h1 className='text-primary mb-3'>Collection</h1>
