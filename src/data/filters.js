@@ -1,4 +1,5 @@
 import React from 'react';
+import './filters.css'
 
 const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
 
@@ -6,7 +7,7 @@ const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
     return (
         <nav>
             <div className="nb-of-posts">
-                <label for="nb_posts" >Nombres de posts à afficher : </label>
+                <label for="nb_posts" > Nombres de posts à afficher : </label>
                 <input type="text" value={postsPerPage}
                     onChange={e => setPostsPerPage(e.target.value)}
                     id="nb_posts"
@@ -14,7 +15,7 @@ const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
                 <button className="button_nb_posts" onClick={change_nb_posts} > Change </button>
             </div>
             <div className="search">
-                <label for="text_search" >Votre recherche : </label>
+                <label for="text_search" > Votre recherche : </label>
                 <input type="text" value=""
 
                 />
