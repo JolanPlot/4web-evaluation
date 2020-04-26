@@ -3,12 +3,15 @@ import "./Data.css";
 import Posts from "./Data"
 import axios from 'axios'
 import Pagination from './Pagination'
+import Filters from './filters'
 
 const EnchanceData = props => {
     const [posts, setPosts] = useState([]);
     const [loading, setLoading] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
-    const [postsPerPage] = useState(10);
+    const [postsPerPage, setPostsPerPage] = useState(5);
+
+
 
     useEffect(() => {
         const fetchPosts = async () => {
@@ -27,9 +30,21 @@ const EnchanceData = props => {
     const currentPosts = posts.slice(indexOfFirstPost, indexOfLastPost);
 
     const paginate = pageNumber => setCurrentPage(pageNumber);
+
+
+
+    const change_nb_posts = () => {
+        setPostsPerPage()
+    }
+
+
+
+
+
     return (
         <div className='container mt-5'>
             <h1 className='text-primary mb-3'>Collection</h1>
+            <Filters />
             <Posts posts={currentPosts} loading={loading} />
             <Pagination
                 postsPerPage={postsPerPage}
