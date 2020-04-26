@@ -1,6 +1,6 @@
 import React from 'react';
 
-const filters = ({ postsPerPage, setPostsPerPage }) => {
+const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
 
 
     return (
@@ -10,7 +10,7 @@ const filters = ({ postsPerPage, setPostsPerPage }) => {
                 onChange={e => setPostsPerPage(e.target.value)}
                 id="nb_posts"
             />
-            <button className="button_nb_posts" > Change </button>
+            <button className="button_nb_posts" onClick={change_nb_posts} > Change </button>
         </div>
     )
 

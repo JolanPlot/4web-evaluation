@@ -34,7 +34,7 @@ const EnchanceData = props => {
 
 
     const change_nb_posts = () => {
-        setPostsPerPage()
+
     }
 
 
@@ -42,9 +42,11 @@ const EnchanceData = props => {
 
 
     return (
+
+
         <div className='container mt-5'>
             <h1 className='text-primary mb-3'>Collection</h1>
-            <Filters />
+            <Filters change_nb_posts={change_nb_posts} />
             <Posts posts={currentPosts} loading={loading} />
             <Pagination
                 postsPerPage={postsPerPage}
