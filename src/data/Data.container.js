@@ -10,7 +10,7 @@ const EnchanceData = props => {
     const [loading, setLoading] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
     const [postsPerPage, setPostsPerPage] = useState(5);
-
+    const [ChangeSort, SetChangeSort] = useState(true);
 
 
     useEffect(() => {
@@ -23,6 +23,8 @@ const EnchanceData = props => {
 
         fetchPosts();
     }, []);
+
+
 
 
     const indexOfLastPost = currentPage * postsPerPage;
@@ -43,6 +45,9 @@ const EnchanceData = props => {
 
     }
 
+    const tri_croissant_decroissant = () => {
+
+    }
 
 
 
@@ -55,7 +60,13 @@ const EnchanceData = props => {
             <Filters
                 change_nb_posts={change_nb_posts}
                 setPostsPerPage={setPostsPerPage} />
-            <Posts posts={currentPosts} loading={loading} />
+            <Posts
+                posts={currentPosts}
+                loading={loading}
+                tri={tri_croissant_decroissant}
+                ChangeSort={ChangeSort}
+                SetChangeSort={SetChangeSort}
+            />
             <Pagination
                 postsPerPage={postsPerPage}
                 totalPosts={posts.length}

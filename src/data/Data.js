@@ -2,7 +2,10 @@ import React from "react";
 import "./Data.css";
 
 
-const Posts = ({ posts, loading }) => {
+const haut = String.fromCharCode(0x2191)
+const bas = String.fromCharCode(0x2193)
+
+const Posts = ({ posts, loading, tri, ChangeSort, SetChangeSort }) => {
     if (loading) {
         return <h2>Chargement des données...</h2>;
     }
@@ -10,12 +13,12 @@ const Posts = ({ posts, loading }) => {
     return (
         <table className='table mb-4'>
             <tr>
-                <th>Album</th>
-                <th>Auteur</th>
-                <th>Editeur</th>
-                <th>Etat</th>
-                <th>Annee</th>
-                <th>Dedicace</th>
+                <th>Album {<button className="Button_Sort_Album" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
+                <th>Auteur {<button className="Button_Sort_Auteur" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
+                <th>Editeur {<button className="Button_Sort_Editeur" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
+                <th>Etat {<button className="Button_Sort_Etat" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
+                <th>Annee {<button className="Button_Sort_Annee" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
+                <th>Dedicace {<button className="Button_Sort_Dedicace" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
             </tr>
 
 
