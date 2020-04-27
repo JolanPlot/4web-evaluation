@@ -5,5 +5,7 @@ li{
 a{
     border: solid;
     border-width: 1px;
-    margin : auto;
+    cursor: pointer;
+    padding: 5px;
+    background-color: #ccc;
 }

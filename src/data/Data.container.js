@@ -43,7 +43,7 @@ const EnchanceData = props => {
 
     const Rechercher = () => {
         var str = document.getElementById("element_rechercher").value;
-        if (str == "") {
+        if (str === "") {
             alert("Please enter some text to search!");
             return;
         }
@@ -94,7 +94,7 @@ const EnchanceData = props => {
 
 
         <div className='container mt-5'>
-            <h1 className='text-primary mb-3'>Collection</h1>
+            <h1 className='text-primary mb-3'>Collection BD</h1>
             <Filters
                 setPostsPerPage={setPostsPerPage}
                 Rechercher={Rechercher} />
