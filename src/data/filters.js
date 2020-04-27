@@ -8,11 +8,10 @@ const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
         <nav>
             <div className="nb-of-posts">
                 <label for="nb_posts" > Nombres de posts à afficher : </label>
-                <input type="text" value={postsPerPage}
+                <input type="number" value={postsPerPage} min="1"
                     onChange={e => setPostsPerPage(e.target.value)}
                     id="nb_posts"
                 />
-                <button className="button_nb_posts" onClick={change_nb_posts} > Change </button>
             </div>
             <div className="search">
                 <label for="text_search" > Votre recherche : </label>

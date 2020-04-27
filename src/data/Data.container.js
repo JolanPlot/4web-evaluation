@@ -35,15 +35,6 @@ const EnchanceData = props => {
 
 
 
-    const change_nb_posts = () => {
-
-        if (postsPerPage <= 5) {
-            postsPerPage = 5
-        } else {
-            setPostsPerPage(postsPerPage)
-        }
-
-    }
 
     const tri_croissant_decroissant = () => {
 
@@ -58,7 +49,6 @@ const EnchanceData = props => {
         <div className='container mt-5'>
             <h1 className='text-primary mb-3'>Collection</h1>
             <Filters
-                change_nb_posts={change_nb_posts}
                 setPostsPerPage={setPostsPerPage} />
             <Posts
                 posts={currentPosts}
