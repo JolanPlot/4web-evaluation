@@ -15,7 +15,9 @@ const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
             </div>
             <div className="search">
                 <label for="text_search" > Votre recherche : </label>
-                <input type="text" value=""
+                <input type="search"
+                    placeholder="Search on site…"
+                    name="element_rechercher"
 
                 />
                 <button className="button_search" > Rechercher </button>

@@ -38,6 +38,7 @@ const EnchanceData = props => {
 
     const tri_croissant_decroissant = () => {
 
+        console.log("Tri des données dans l'ordre croissant")
     }
 
 
