@@ -1,8 +1,7 @@
 import React from 'react';
 import './filters.css'
 
-const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
-
+const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts, Rechercher }) => {
 
     return (
         <nav>
@@ -14,13 +13,11 @@ const filters = ({ postsPerPage, setPostsPerPage, change_nb_posts }) => {
                 />
             </div>
             <div className="search">
-                <label for="text_search" > Votre recherche : </label>
-                <input type="search"
-                    placeholder="Search on site…"
-                    name="element_rechercher"
+                <label for="search" > Recherche : </label>
+                <input id="element_rechercher" name="element_rechercher" type="text" size="20" placeholder="Search on site…"></input>
 
-                />
-                <button className="button_search" > Rechercher </button>
+                <button onClick={() => Rechercher()} > Recherche </button>
+
             </div>
 
 
