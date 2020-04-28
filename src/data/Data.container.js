@@ -44,7 +44,7 @@ const EnchanceData = props => {
     const Rechercher = () => {
         var str = document.getElementById("element_rechercher").value;
         if (str === "") {
-            alert("Please enter some text to search!");
+            alert("Merci d'entrer un texte à rechercher");
             return;
         }
 
@@ -78,7 +78,7 @@ const EnchanceData = props => {
 
         if (supported) {
             if (!found) {
-                alert("The following text was not found:\n" + str);
+                alert("Il n'y a plus d'autres éléments : " + str + " sur cette page");
             }
         }
         else {
