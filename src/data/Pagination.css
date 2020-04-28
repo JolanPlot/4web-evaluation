@@ -1,6 +1,13 @@
+
+nav{
+    position: relative;
+    z-index: 1;
+}
+
 li{
     display: inline;
     margin: 3px;
+
 }
 a{
     border: solid;

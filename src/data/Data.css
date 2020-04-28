@@ -1,4 +1,6 @@
 table{
+    position: relative;
+    z-index: 1;
     border-style: solid;
     text-align: center;
     margin:auto
@@ -18,6 +20,6 @@ table td{
     position: fixed;
     width: 100%;
     height: 100%;
-    background-size: cover;
-    background: url(https://www.herodote.net/_images/bd-gaston-lagaffe.png) no-repeat right top ;
+    top:0px;
+    background: url(https://www.herodote.net/_images/bd-gaston-lagaffe.png) no-repeat ;
 }

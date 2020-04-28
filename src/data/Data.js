@@ -14,7 +14,7 @@ const Posts = ({ posts, loading, tri, ChangeSort, SetChangeSort }) => {
         <>
 
             <div className="background_data"></div>
-            <table className='table mb-4'>
+            <table className='table'>
                 <tr>
                     <th>Album {<button className="Button_Sort_Album" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
                     <th>Auteur {<button className="Button_Sort_Auteur" onClick={() => SetChangeSort(!ChangeSort)} > {ChangeSort ? haut : bas} </button>} </th>
