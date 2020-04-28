@@ -103,7 +103,7 @@ const EnchanceData = props => {
                 posts={currentPosts}
                 loading={loading}
                 tri={tri_croissant_decroissant}
-                ChangeSort={SetChangeSort}
+                ChangeSort={ChangeSort}
                 SetChangeSort={SetChangeSort}
             />
             <Pagination
